@@ -23,6 +23,7 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
 1. Preliminary: 
 (a) Ensure that the static trial has been extracted from the C3D file (follow the notebook **"model_update/1_extract_static_c3D.ipynb"**)
 (b) Create a template with all landmarks in the ground frame. To do so, use the notebook **"mri/results/create_template.ipynb"**. This step is needed to be done only once provided that the template folder is copied to/used for all individuals.
+(c) Create a Python environment using the supplied .yml file. This environment will be needed for those notebooks that do not depend on the 3DSlicer Jupyter kernel.
 
 2. Follow instructions in the notebook **"mri/results/orientation_with_tps.ipynb"**. To use it with 3DSlicer, you need to have installed 3DSlicer with JupyterKernel extension. The present code was created in 3DSlicer 5.6.2. Once the kernel is installed, you should be able to choose it as the environment to run the notebook (we use VS Code as an IDE. VS Code is able to detect 3DSlicer Jupyter kernel installation after it has been closed and opened again). The kernel, once loaded, will aitomatically open a managed 3DSlicer window. Please note, that you can only close this window if you close the managing notebook.
 
