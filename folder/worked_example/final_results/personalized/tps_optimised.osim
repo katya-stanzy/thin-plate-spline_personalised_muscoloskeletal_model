@@ -7476,7 +7476,7 @@
 									<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame in which this path point is defined.).-->
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									<!--The fixed location of the path point expressed in its parent frame.-->
-									<location>0.013734197311467751 -0.37559449354449825 0.032440683782515009</location>
+									<location>0.0087341973114678298 -0.37943098851601509 0.031305979987764958</location>
 								</PathPoint>
 								<PathPoint name="tfl_r-P4">
 									<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame in which this path point is defined.).-->
@@ -11985,13 +11985,13 @@
 									<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame in which this path point is defined.).-->
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									<!--The fixed location of the path point expressed in its parent frame.-->
-									<location>0.014133338425765345 -0.38429276771416465 -0.034364985764906</location>
+									<location>0.00913333842576536 -0.38892264597334986 -0.031393776844327557</location>
 								</PathPoint>
 								<PathPoint name="tfl_l-P4">
 									<!--Path to a Component that satisfies the Socket 'parent_frame' of type PhysicalFrame (description: The frame in which this path point is defined.).-->
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									<!--The fixed location of the path point expressed in its parent frame.-->
-									<location>0.011747518302398039 -0.038066073096358358 -0.040191231209909237</location>
+									<location>0.011747518302398041 -0.038066073096358358 -0.040191231209909237</location>
 								</PathPoint>
 							</objects>
 							<groups />

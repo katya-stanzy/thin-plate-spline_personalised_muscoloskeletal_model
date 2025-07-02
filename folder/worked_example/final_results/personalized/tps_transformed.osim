@@ -228,7 +228,7 @@
 								
 								<xyz_body_rotation>-0.59999999999999998 0.45000000000000001 0</xyz_body_rotation>
 								
-								<translation>-0.06998507725186126 -0.08995881353376066  0.0673761942277222 </translation>
+								<translation>-0.07095529293095168 -0.09023986485995836  0.06852199792960005</translation>
 								
 								<quadrant>-x</quadrant>
 								
@@ -256,7 +256,7 @@
 								
 								<xyz_body_rotation>-0.75 0.39000000000000001 0</xyz_body_rotation>
 								
-								<translation>-0.07075699466260997 -0.07208239817644099  0.07486205590660458</translation>
+								<translation>-0.07116851031280816 -0.0722028829247243   0.0752512765594213 </translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -284,7 +284,7 @@
 								
 								<xyz_body_rotation>-0.10000000000000001 0 0</xyz_body_rotation>
 								
-								<translation>-0.07423856868000948 -0.07707045564097134  0.07534480327130522</translation>
+								<translation>-0.07475517285354022 -0.07723814003705412  0.07589561305583434</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -312,7 +312,7 @@
 								
 								<xyz_body_rotation>0.59999999999999998 -0.45000000000000001 0</xyz_body_rotation>
 								
-								<translation>-0.06678399544987851 -0.09021091550645274 -0.06285878961244219</translation>
+								<translation>-0.06804329219391148 -0.09047279161439722 -0.06381151614890308</translation>
 								
 								<quadrant>-x</quadrant>
 								
@@ -340,7 +340,7 @@
 								
 								<xyz_body_rotation>0.75 -0.39000000000000001 0</xyz_body_rotation>
 								
-								<translation>-0.06823137498441353 -0.07265644527335412 -0.06946061363917974</translation>
+								<translation>-0.06879056037782928 -0.07280521430438625 -0.06982438181464892</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -368,7 +368,7 @@
 								
 								<xyz_body_rotation>0.10000000000000001 0 0</xyz_body_rotation>
 								
-								<translation>-0.07147531903712309 -0.07759399666333071 -0.07026280900053143</translation>
+								<translation>-0.07220318532867101 -0.07779063741119845 -0.07079286278193762</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -396,7 +396,7 @@
 								
 								<xyz_body_rotation>-0.25 -0.27000000000000002 0.10000000000000001</xyz_body_rotation>
 								
-								<translation>-0.06377295762968353 -0.04963737244388138  0.07028157069505883</translation>
+								<translation>-0.0640204998437392  -0.04966487640002239  0.07016464194733868</translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -424,7 +424,7 @@
 								
 								<xyz_body_rotation>0.25 0.27000000000000002 0.10000000000000001</xyz_body_rotation>
 								
-								<translation>-0.06163910826636306 -0.0503870465802396  -0.06427013790793748</translation>
+								<translation>-0.06185835226273324 -0.05045707662821347 -0.06419796272274769</translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -452,7 +452,7 @@
 								
 								<xyz_body_rotation>-0.32000000000000001 -0.23999999999999999 0.90000000000000002</xyz_body_rotation>
 								
-								<translation>-0.06112438571846972 -0.05422729403168248  0.08058430228503854</translation>
+								<translation>-0.06122207960216108 -0.05423166339083032  0.08047410569245866</translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -480,7 +480,7 @@
 								
 								<xyz_body_rotation>0.32000000000000001 0.23999999999999999 0.90000000000000002</xyz_body_rotation>
 								
-								<translation>-0.05903204175674581 -0.05497591961134154 -0.07478380005174745</translation>
+								<translation>-0.05914110392676318 -0.05502957682167801 -0.07475969632777818</translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -549,7 +549,7 @@
 								
 								<xyz_body_rotation>0 0 0</xyz_body_rotation>
 								
-								<translation> 0.00458274815899079 -0.38317986023742107 -0.00033901904923373</translation>
+								<translation> 0.00463509955766987 -0.38699589868347856 -0.00048086645410129</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -577,7 +577,7 @@
 								
 								<xyz_body_rotation>-0.062336599999999999 0.050760100000000002 0</xyz_body_rotation>
 								
-								<translation> 0.00314306150831891 -0.37600315010031404  0.00175886214292241</translation>
+								<translation> 0.00317880787659607 -0.37956007240335693  0.00189316623328431</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -605,7 +605,7 @@
 								
 								<xyz_body_rotation>1.66157 0.186644 0</xyz_body_rotation>
 								
-								<translation> 0.00304762862140094 -0.11188204076295273  0.02543978375470484</translation>
+								<translation> 0.00852064197651638 -0.10860256374345942  0.02450004682317871</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -633,7 +633,7 @@
 								
 								<xyz_body_rotation>1.77711 0.136489 0</xyz_body_rotation>
 								
-								<translation> 0.01574980555060338 -0.22823577256076566  0.01510446691923355</translation>
+								<translation> 0.02792512060864162 -0.224353915446325   -0.00012057665131103</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -661,7 +661,7 @@
 								
 								<xyz_body_rotation>1.6112599999999999 0.18656 0</xyz_body_rotation>
 								
-								<translation> 0.0009713540403034  -0.07122113994665513  0.01949825778663157</translation>
+								<translation> 0.01843032691577612 -0.07007769611499623  0.00187476127501147</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -689,7 +689,7 @@
 								
 								<xyz_body_rotation>1.6113900000000001 0.13655999999999999 0</xyz_body_rotation>
 								
-								<translation> 0.00842201976599103 -0.16004377204655482  0.01711809734724726</translation>
+								<translation> 0.01569021257942214 -0.15552962858806194  0.01722737523080506</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -717,7 +717,7 @@
 								
 								<xyz_body_rotation>1.7118800000000001 0.186636 0</xyz_body_rotation>
 								
-								<translation> 0.01714125644725882 -0.2549686309592464   0.00863137229154371</translation>
+								<translation> 0.02713922466117597 -0.2516491476139544  -0.00258543126176492</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -745,7 +745,7 @@
 								
 								<xyz_body_rotation>1.7111499999999999 -0.46336300000000002 0</xyz_body_rotation>
 								
-								<translation>-0.02193839355380946 -0.34351137869106935  0.00151192611230216</translation>
+								<translation>-0.02394025628648649 -0.3485951350108844   0.00286447711073554</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -773,7 +773,7 @@
 								
 								<xyz_body_rotation>1.8129500000000001 0.27634399999999998 0</xyz_body_rotation>
 								
-								<translation>-0.00016264214774059 -0.08221738873276568  0.02844369798307234</translation>
+								<translation> 0.01626813899352606 -0.08126175155044417  0.00901386037598308</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -859,7 +859,7 @@
 								
 								<xyz_body_rotation>2.9672299999999998 -0.279725 -1.4781200000000001</xyz_body_rotation>
 								
-								<translation>-0.0050707101451532  -0.06775208807654665 -0.00890229004224628</translation>
+								<translation>-0.00514222035645277 -0.06711794248547756 -0.0091529481198132 </translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -887,7 +887,7 @@
 								
 								<xyz_body_rotation>2.9672299999999998 0.027972500000000001 -1.4781200000000001</xyz_body_rotation>
 								
-								<translation>-0.0050707101451532  -0.06775208807654665 -0.00890229004224628</translation>
+								<translation>-0.00514222035645277 -0.06711794248547756 -0.0091529481198132 </translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -915,7 +915,7 @@
 								
 								<xyz_body_rotation>0 -0.40000000000000002 0</xyz_body_rotation>
 								
-								<translation>-0.00020923429545877 -0.01887869903246033 -0.00445312817626044</translation>
+								<translation>-0.0002038201949223  -0.01865194797071473 -0.00448544266317864</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -943,7 +943,7 @@
 								
 								<xyz_body_rotation>0 -0.10000000000000001 0</xyz_body_rotation>
 								
-								<translation> 0.0017132871004124  -0.01869121119155844 -0.00456983288642663</translation>
+								<translation> 0.00169926446686766 -0.0184897596316406  -0.00461911117565189</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -971,7 +971,7 @@
 								
 								<xyz_body_rotation>0 -0.20000000000000001 0</xyz_body_rotation>
 								
-								<translation> 0.00076223618292591 -0.01923843935986596 -0.00449914412421515</translation>
+								<translation> 0.00075741833241223 -0.01901348250318577 -0.00453156489752562</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -999,7 +999,7 @@
 								
 								<xyz_body_rotation>0 0 0</xyz_body_rotation>
 								
-								<translation>-0.05392964993269184 -0.05945826392915243 -0.00414641856803498</translation>
+								<translation>-0.05294718581260706 -0.05852091466213036  0.00043395474003281</translation>
 								
 								<quadrant>y</quadrant>
 								
@@ -1228,7 +1228,7 @@
 								
 								<xyz_body_rotation>0 0 0</xyz_body_rotation>
 								
-								<translation> 0.00491409081854452 -0.3927539560294537   0.00087281465044682</translation>
+								<translation> 0.00498669906347308 -0.3943547780321651   0.00059122556867383</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1256,7 +1256,7 @@
 								
 								<xyz_body_rotation>0.062336599999999999 -0.050760100000000002 0</xyz_body_rotation>
 								
-								<translation> 0.00317467500776376 -0.3854617207579414  -0.00160854935011082</translation>
+								<translation> 0.0033445005748296  -0.3870226242345994  -0.00151318916820757</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1284,7 +1284,7 @@
 								
 								<xyz_body_rotation>-1.66157 -0.186644 0</xyz_body_rotation>
 								
-								<translation> 0.00384673572581732 -0.11332375938595332 -0.02378692911931095</translation>
+								<translation> 0.00733093778586914 -0.11076400876110344 -0.02486499697277208</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1312,7 +1312,7 @@
 								
 								<xyz_body_rotation>-1.77711 -0.136489 0</xyz_body_rotation>
 								
-								<translation> 0.01517001207756495 -0.23238259593241845 -0.01257223800735108</translation>
+								<translation> 0.02995623971919594 -0.22782847211719462  0.00277357841581634</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1340,7 +1340,7 @@
 								
 								<xyz_body_rotation>-1.6112599999999999 -0.18656 0</xyz_body_rotation>
 								
-								<translation>-0.00242315114142473 -0.0723962098657673  -0.01913271673537458</translation>
+								<translation> 0.02394465736207983 -0.07125573924272643 -0.00105791526285148</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1368,7 +1368,7 @@
 								
 								<xyz_body_rotation>-1.6113900000000001 -0.13655999999999999 0</xyz_body_rotation>
 								
-								<translation> 0.00992149729192922 -0.1620065692977843  -0.0138008094769766 </translation>
+								<translation> 0.01460078855075465 -0.15824353694785787 -0.0173072199967042 </translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1396,7 +1396,7 @@
 								
 								<xyz_body_rotation>-1.7118800000000001 -0.186636 0</xyz_body_rotation>
 								
-								<translation> 0.01644424974394348 -0.2600582539914958  -0.0061505703961273 </translation>
+								<translation> 0.0284464889934377  -0.2556430745882568   0.00593236201220299</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1424,7 +1424,7 @@
 								
 								<xyz_body_rotation>-1.7111499999999999 0.46336300000000002 0</xyz_body_rotation>
 								
-								<translation>-0.02477748962981944 -0.3498476820721461  -0.00339665182596885</translation>
+								<translation>-0.02541790285775629 -0.3540786362192966  -0.00497566434046138</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1452,7 +1452,7 @@
 								
 								<xyz_body_rotation>-1.8129500000000001 -0.27634399999999998 0</xyz_body_rotation>
 								
-								<translation>-0.00234968381592252 -0.08375928111542727 -0.02814000636585636</translation>
+								<translation> 0.021122116113565   -0.08276123951980024 -0.00830077197251682</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1538,7 +1538,7 @@
 								
 								<xyz_body_rotation>-2.9672299999999998 0.279725 -1.4781200000000001</xyz_body_rotation>
 								
-								<translation>-0.00498755870225753 -0.06735643272236638  0.0086586694353219 </translation>
+								<translation>-0.00514289264352279 -0.06722884949322062  0.010964546079346  </translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -1566,7 +1566,7 @@
 								
 								<xyz_body_rotation>-2.9672299999999998 -0.027972500000000001 -1.4781200000000001</xyz_body_rotation>
 								
-								<translation>-0.00498755870225753 -0.06735643272236638  0.0086586694353219 </translation>
+								<translation>-0.00514289264352279 -0.06722884949322062  0.010964546079346  </translation>
 								
 								<quadrant>-y</quadrant>
 								
@@ -1594,7 +1594,7 @@
 								
 								<xyz_body_rotation>0 0.40000000000000002 0</xyz_body_rotation>
 								
-								<translation> 0.0001919148955059  -0.01852500383643542  0.00488763128890686</translation>
+								<translation> 0.00020920741203456 -0.01846583876757035  0.00462866573573066</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1622,7 +1622,7 @@
 								
 								<xyz_body_rotation>0 0.10000000000000001 0</xyz_body_rotation>
 								
-								<translation> 0.00211027003397072 -0.01844271843716945  0.00497746251493436</translation>
+								<translation> 0.00212174903748282 -0.01839327855640997  0.00472572029683647</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1650,7 +1650,7 @@
 								
 								<xyz_body_rotation>0 0.20000000000000001 0</xyz_body_rotation>
 								
-								<translation> 0.00114806846607503 -0.01891722894575423  0.00490904474790547</translation>
+								<translation> 0.00116270411665392 -0.01886386649390619  0.00464800344115155</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -1678,7 +1678,7 @@
 								
 								<xyz_body_rotation>0 0 0</xyz_body_rotation>
 								
-								<translation>-0.05272025322590374 -0.05722628431760677  0.00466110088382533</translation>
+								<translation>-0.05345474160782226 -0.05706779319917481  0.00227733031412672</translation>
 								
 								<quadrant>all</quadrant>
 								
@@ -2377,7 +2377,7 @@
 							
 							<socket_parent>/bodyset/femur_r</socket_parent>
 							
-							<translation> 0.00008228793978736 -0.3765536174467907  -0.00140927123719597</translation>
+							<translation>-0.00008592514684046 -0.38064508392695484 -0.00129662134372074</translation>
 							
 							<orientation>-1.64157 1.44618 1.5708</orientation>
 						</PhysicalOffsetFrame>
@@ -2519,7 +2519,7 @@
 							
 							<socket_parent>/bodyset/femur_r</socket_parent>
 							
-							<translation> 0.00008228793978736 -0.3765536174467907  -0.00140927123719597</translation>
+							<translation>-0.00008592514684046 -0.38064508392695484 -0.00129662134372074</translation>
 							
 							<orientation>0 0 0</orientation>
 						</PhysicalOffsetFrame>
@@ -2660,7 +2660,7 @@
 							
 							<socket_parent>/bodyset/tibia_r</socket_parent>
 							
-							<translation>-0.00006139498816881 -0.38730816663651113  0.0000204657804761 </translation>
+							<translation>-0.00006104068574524 -0.3865835415968471   0.00002034767127585</translation>
 							
 							<orientation>0.175895 -0.105208 0.0186622</orientation>
 						</PhysicalOffsetFrame>
@@ -3004,7 +3004,7 @@
 							
 							<socket_parent>/bodyset/femur_l</socket_parent>
 							
-							<translation> 0.00007896905263737 -0.38581476414165355  0.00140648103639067</translation>
+							<translation>-0.00000290856079676 -0.3877017931761645   0.00128970220316093</translation>
 							
 							<orientation>1.64157 -1.44618 1.5708</orientation>
 						</PhysicalOffsetFrame>
@@ -3146,7 +3146,7 @@
 							
 							<socket_parent>/bodyset/femur_l</socket_parent>
 							
-							<translation> 0.00007896905263737 -0.38581476414165355  0.00140648103639067</translation>
+							<translation>-0.00000290856079676 -0.3877017931761645   0.00128970220316093</translation>
 							
 							<orientation>0 0 0</orientation>
 						</PhysicalOffsetFrame>
@@ -3287,7 +3287,7 @@
 							
 							<socket_parent>/bodyset/tibia_l</socket_parent>
 							
-							<translation>-0.00006139498816881 -0.38730816663651113  0.0000204657804761 </translation>
+							<translation>-0.00006104068574524 -0.3865835415968471   0.00002034767127585</translation>
 							
 							<orientation>-0.175895 0.105208 0.0186622</orientation>
 						</PhysicalOffsetFrame>
@@ -3659,13 +3659,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01529755336289432 -0.09393128226665584  0.02705622183128708</location>
+									<location>-0.01611634729684705 -0.09387023299765135  0.02743941286417621</location>
 								</PathPoint>
 								<PathPoint name="addbrev_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01207078017950792 -0.11173548513096626  0.03009364934144316</location>
+									<location>-0.0167610323743248  -0.10953640816931964  0.04310519167484825</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -3766,13 +3766,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00453412238459011 -0.09002657711374282  0.03430730781980641</location>
+									<location>-0.0051941561816755  -0.08975165307861163  0.03473812916993711</location>
 								</PathPoint>
 								<PathPoint name="addlong_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00092934322061682 -0.22905040384712896  0.01724074162700127</location>
+									<location> 0.00907678589337451 -0.22808422186838426  0.00275429640545313</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -3873,13 +3873,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.06549963628879511 -0.11852659908828682  0.04555726686753316</location>
+									<location>-0.06579681707181083 -0.11861323977484875  0.04589653524780259</location>
 								</PathPoint>
 								<PathPoint name="addmagDist_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.0012964841847472  -0.2500480436318325   0.01866323718723147</location>
+									<location> 0.00907734833011044 -0.24907762734432823  0.00821336871506301</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -3980,13 +3980,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.08160364660700148 -0.11950959341117763  0.04947537746090194</location>
+									<location>-0.08183008926293787 -0.11953688608359808  0.04957285611795473</location>
 								</PathPoint>
 								<PathPoint name="addmagIsch_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.00279884520025682 -0.3622219033495057  -0.03240660861750526</location>
+									<location> 0.00239806631412921 -0.3658163974464636  -0.03284289581415661</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -4087,13 +4087,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04475644065024599 -0.11399990098026207  0.034381712816756  </location>
+									<location>-0.04480447359066351 -0.1139925701328746   0.03461189258094925</location>
 								</PathPoint>
 								<PathPoint name="addmagMid_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00892094305894815 -0.15510553087317028  0.02207677161954296</location>
+									<location>-0.00974481538780803 -0.15241040200130274  0.03674924300794714</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -4194,13 +4194,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.02645655410582044 -0.10549732744051415  0.0215615376694322 </location>
+									<location>-0.02664870668614094 -0.10547436377534253  0.02166947548186853</location>
 								</PathPoint>
 								<PathPoint name="addmagProx_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01764276810595665 -0.07013688431176844  0.0288817253476519 </location>
+									<location> 0.00177658024709527 -0.07195394721641953  0.0059718055552296 </location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -4301,19 +4301,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.10104486490344561 -0.11068538922645041  0.06996738119163402</location>
+									<location>-0.10100660387695211 -0.11060607324389087  0.07019529051924783</location>
 								</PathPoint>
 								<PathPoint name="bflh_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.0287131151946471  -0.03563913644037137  0.023298298830737  </location>
+									<location>-0.02869147329059268 -0.03483739821253738  0.02470577089379091</location>
 								</PathPoint>
 								<PathPoint name="bflh_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02407812702726746 -0.04488690044668885  0.02897458153202576</location>
+									<location>-0.0239669933394989  -0.04408641544562326  0.03083778869732482</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -4405,13 +4405,13 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00630323986559378 -0.20099107179961473  0.02474209578093092</location>
+									<location> 0.00351367676493877 -0.20008590735172935  0.00996738741801315</location>
 								</PathPoint>
 								<PathPoint name="bfsh_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02527604455205221 -0.04175645479867944  0.0304235372426244 </location>
+									<location>-0.02517771085846745 -0.04094190002249732  0.03230611456656713</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -4512,13 +4512,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01492142654736578 -0.10691513038483672  0.01631299560133335</location>
+									<location>-0.01360863483380032 -0.10631885534162     0.01749452199441448</location>
 								</PathPoint>
 								<PathPoint name="edl_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.0221178474381823  -0.36346436035420343  0.01371398290561256</location>
+									<location> 0.0206902570662985  -0.36261622788217507  0.01207290624298784</location>
 								</PathPoint>
 								<PathPoint name="edl_r-P3">
 									
@@ -4634,19 +4634,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01340006847683023 -0.1424527156237227   0.01386574800864353</location>
+									<location>-0.01279361392834663 -0.14208791404328402  0.01491479752773184</location>
 								</PathPoint>
 								<PathPoint name="ehl_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.0067945434006625  -0.277772869713782    0.01250029018414012</location>
+									<location> 0.00641362729073229 -0.2774352485151985   0.01193390252576722</location>
 								</PathPoint>
 								<PathPoint name="ehl_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.02349236402095464 -0.35635965439511813 -0.00094342959899925</location>
+									<location> 0.02343636997760846 -0.3560449325147607  -0.00012316847552998</location>
 								</PathPoint>
 								<PathPoint name="ehl_r-P4">
 									
@@ -4768,13 +4768,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.00273442694131074 -0.16772386445305099 -0.00914431670847375</location>
+									<location>-0.00285043239993338 -0.1676124637199864  -0.00859308438616586</location>
 								</PathPoint>
 								<PathPoint name="fdl_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.00965228154394307 -0.3523411383781763  -0.01932506263930441</location>
+									<location>-0.00804476042432309 -0.3519917672116654  -0.01836228786809632</location>
 								</PathPoint>
 								<PathPoint name="fdl_r-P3">
 									
@@ -4902,13 +4902,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02957344225782183 -0.2023343778651414   0.0160873627278874 </location>
+									<location>-0.02895597882266267 -0.2022140473155445   0.01665147403768224</location>
 								</PathPoint>
 								<PathPoint name="fhl_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01554323920769379 -0.3550621221663457  -0.01527962623969855</location>
+									<location>-0.0134946197100335  -0.35475966659508884 -0.01414696479441223</location>
 								</PathPoint>
 								<PathPoint name="fhl_r-P3">
 									
@@ -5030,7 +5030,7 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.0007481397464268  -0.3540039596729822   0.02724497195384945</location>
+									<location> 0.00123674360780512 -0.354958951000789    0.02729002720322498</location>
 								</PathPoint>
 								<PathPoint name="gaslat_r-P2">
 									
@@ -5145,7 +5145,7 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.0072270612757112  -0.3532793362536718  -0.02195727727201769</location>
+									<location> 0.0073357958386447  -0.35415339012669417 -0.02233740188683402</location>
 								</PathPoint>
 								<PathPoint name="gasmed_r-P2">
 									
@@ -5260,25 +5260,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.10065485852865597  0.03959288360617707  0.06113266495092459</location>
+									<location>-0.10078903775225796  0.03956703630747319  0.06115469641002977</location>
 								</PathPoint>
 								<PathPoint name="glmax1_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.1083645627404083  -0.0082219584560614   0.08570292260145214</location>
+									<location>-0.10802969241447274 -0.00807338892352393  0.08558735870760427</location>
 								</PathPoint>
 								<PathPoint name="glmax1_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.04212418286346593 -0.01658515588637036  0.03472086218415672</location>
+									<location>-0.04264308670934299 -0.02184889395132706  0.0322423193176225 </location>
 								</PathPoint>
 								<PathPoint name="glmax1_r-P4">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.02616184294978244 -0.04354012373330977  0.04389123158206925</location>
+									<location>-0.01480721564048646 -0.04686713812314627  0.02959566248722965</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5379,25 +5379,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.1138182377619853   0.01936861508702453  0.05274026009996095</location>
+									<location>-0.11377703480724834  0.01938061681859625  0.05273685318211776</location>
 								</PathPoint>
 								<PathPoint name="glmax2_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.11919173461784055 -0.04123800872841463  0.09143665016207228</location>
+									<location>-0.11843598425388958 -0.04102287449810887  0.09094459724855705</location>
 								</PathPoint>
 								<PathPoint name="glmax2_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.04520670455576514 -0.04178531014736925  0.03076129327151538</location>
+									<location>-0.04178777555735001 -0.04757211691759258  0.02289921676778462</location>
 								</PathPoint>
 								<PathPoint name="glmax2_r-P4">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.02076220892948129 -0.09103358795228522  0.04250104787147389</location>
+									<location>-0.02077165991911131 -0.09239726373615498  0.04269193927222505</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5498,25 +5498,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.14363292580920164 -0.03838036601909914  0.01318060134616061</location>
+									<location>-0.14299326465235873 -0.03826992574771019  0.01318361489178759</location>
 								</PathPoint>
 								<PathPoint name="glmax3_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.11389063284945407 -0.10931834505902578  0.05469196436750531</location>
+									<location>-0.11331161913354917 -0.10905594687851232  0.05389953306752866</location>
 								</PathPoint>
 								<PathPoint name="glmax3_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.03668115411434563 -0.09872512401703196  0.03594791761557867</location>
+									<location>-0.03676755617026688 -0.09899950126075202  0.03570845220387921</location>
 								</PathPoint>
 								<PathPoint name="glmax3_r-P4">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01498739161644618 -0.13292631694743715  0.02730484121410124</location>
+									<location>-0.02650591119619234 -0.13049463887129972  0.06247198948146601</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5617,13 +5617,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.03695622119345424  0.02967225413392096  0.11070821651091498</location>
+									<location>-0.03763914922578162  0.02969153606993349  0.11103719628527355</location>
 								</PathPoint>
 								<PathPoint name="glmed1_r-P2_0">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01090169287690035 -0.00939714310798871  0.05899403322184821</location>
+									<location>-0.00952878770990939 -0.00958095630269725  0.05762721237400596</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5715,13 +5715,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.06963413863761296  0.05234650775087721  0.08164007074950091</location>
+									<location>-0.0698060506508269   0.05234962282808159  0.0816278745385861 </location>
 								</PathPoint>
 								<PathPoint name="glmed2_r-P2_0">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01724612077866948  0.00113364918071747  0.05698187563447477</location>
+									<location>-0.01772990536449736  0.00011212865362037  0.05729299768629813</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5813,13 +5813,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.07945516261324498  0.02210955816887126  0.06837978980969583</location>
+									<location>-0.0796708185912613   0.02212365467106186  0.06833657618292457</location>
 								</PathPoint>
 								<PathPoint name="glmed3_r-P2_0">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.02449763411024935  0.0088356026698645   0.05337982379113413</location>
+									<location>-0.02583118219358471  0.00673345482652528  0.05419694046546553</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -5911,13 +5911,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01675016523875996  0.0065137052664498   0.11422842307473358</location>
+									<location>-0.0175562912602487   0.00655164371644659  0.11448737894704848</location>
 								</PathPoint>
 								<PathPoint name="glmin1_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.0034444079575394  -0.01231605144047882  0.05392292616610132</location>
+									<location> 0.00690585130903161 -0.01071514883629243  0.05099890216323524</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6009,13 +6009,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04411573087473365  0.0164446184711039   0.10066516384600258</location>
+									<location>-0.04477383418812505  0.01650669495194442  0.10081284407630454</location>
 								</PathPoint>
 								<PathPoint name="glmin2_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.00428655245008408 -0.00640070135258279  0.05104946882252695</location>
+									<location> 0.00662499326698456 -0.00470589941184772  0.04928192230704995</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6107,13 +6107,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.06175836087486011 -0.00581507179765497  0.08311404001365401</location>
+									<location>-0.06207859658318438 -0.00573511887524257  0.08301590684194088</location>
 								</PathPoint>
 								<PathPoint name="glmin3_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00099073087899719  0.00342275043560505  0.05071632807123425</location>
+									<location>-0.00050964745423889  0.00443527028648529  0.05069602894042516</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6205,19 +6205,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04062174690765076 -0.12306083812970804  0.03148957260195014</location>
+									<location>-0.04002770884904101 -0.12268202660805103  0.03147375203901379</location>
 								</PathPoint>
 								<PathPoint name="grac_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01564150750149277 -0.04413912467070307 -0.03568772555701195</location>
+									<location>-0.01501567726877589 -0.04357968976846865 -0.02846631781830914</location>
 								</PathPoint>
 								<PathPoint name="grac_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.00431051485182839 -0.06261331598407353 -0.02306936168394478</location>
+									<location> 0.00343751889499971 -0.06215030828641565 -0.02214433233027582</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6318,25 +6318,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04480921325813236  0.03189493481635058  0.0841745779295118 </location>
+									<location>-0.04531606574040561  0.03192664242847017  0.08415543677975688</location>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00951026144002704 -0.05181120020388479  0.0873791433965396 </location>
+									<location>-0.00972492576578487 -0.05184981223575524  0.08779007252120033</location>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00368277932515134 -0.05360737173668613  0.00539882918733103</location>
+									<location> 0.00622033037405301 -0.05295984179634223 -0.00014586552879369</location>
 								</PathPoint>
 								<PathPoint name="iliacus_r-P4">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.0128165082689637  -0.05735620880855569  0.01090906754081216</location>
+									<location>-0.00159133023188057 -0.05777812544899584  0.00370782260738196</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6437,19 +6437,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.023007985796309   -0.23981487297128626  0.02182527460734878</location>
+									<location>-0.02235852401417667 -0.23971357552002906  0.02226700888391691</location>
 								</PathPoint>
 								<PathPoint name="perbrev_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02456210611865375 -0.3769932806529881   0.01731681751402353</location>
+									<location>-0.02047013359714195 -0.3771736258545192   0.02112699339261466</location>
 								</PathPoint>
 								<PathPoint name="perbrev_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01864081253346294 -0.38783780023102127  0.02051895306809441</location>
+									<location>-0.01653363214376528 -0.3875687209699375   0.02457725283710547</location>
 								</PathPoint>
 								<PathPoint name="perbrev_r-P4">
 									
@@ -6553,19 +6553,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01884632588849874 -0.12695548010639682  0.02469699250748373</location>
+									<location>-0.01766007571660142 -0.1264735065567236   0.02602130480994087</location>
 								</PathPoint>
 								<PathPoint name="perlong_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02240100599094388 -0.3776543362703969   0.01672363593930888</location>
+									<location>-0.0208994508954767  -0.37704807270508667  0.01740242117340664</location>
 								</PathPoint>
 								<PathPoint name="perlong_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01723361686053712 -0.3888235371743505   0.01968838623330863</location>
+									<location>-0.01566820331616686 -0.38840697290648185  0.02311146331594801</location>
 								</PathPoint>
 								<PathPoint name="perlong_r-P4">
 									
@@ -6681,19 +6681,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.10671808688848892 -0.00159422319645468  0.01638946252434963</location>
+									<location>-0.10670246811385184 -0.00153128397953703  0.0163099115442874 </location>
 								</PathPoint>
 								<PathPoint name="piri_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.08983132137871448 -0.01828466167819669  0.06722838491280385</location>
+									<location>-0.08974472227390777 -0.01820218735808631  0.06707398868342364</location>
 								</PathPoint>
 								<PathPoint name="piri_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01085157916364548  0.00429159543176476  0.0441356851503199 </location>
+									<location>-0.01125123938896903  0.00381562384037591  0.04466638563883223</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6785,25 +6785,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04900155902466623  0.05186213022808257  0.0391619873041967 </location>
+									<location>-0.04928761591758767  0.05184662667332399  0.03903315868034862</location>
 								</PathPoint>
 								<PathPoint name="psoas_r-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01754889093656621 -0.06171284748343906  0.06639192297762224</location>
+									<location>-0.01796802177349907 -0.06177425443278162  0.06596458407571464</location>
 								</PathPoint>
 								<PathPoint name="psoas_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.01454062324703031 -0.041014397613576    0.00217584664791194</location>
+									<location>-0.01190761124997559 -0.04229729579604455  0.00086793387153354</location>
 								</PathPoint>
 								<PathPoint name="psoas_r-P4">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.02435110435896138 -0.04286152020024187  0.00939263457654288</location>
+									<location>-0.02287828723558491 -0.04562139592474432  0.00710378586153468</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -6904,31 +6904,31 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.02043930448161988 -0.03303823551444535  0.09124272739412473</location>
+									<location>-0.02043931974232172 -0.03303823564813926  0.09124273721738271</location>
 								</PathPoint>
 								<PathPoint name="recfem_r-P2">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.01004552007854313 0.04447147834205111 0.00160513923407328</location>
+									<location> 0.00649730550860165  0.04720083711492668 -0.00036140083775624</location>
 								</PathPoint>
 								<PathPoint name="recfem_r-P3">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.01531390763839094 0.03670796070905658 0.00035873432609381</location>
+									<location>0.01503587357544779 0.03701045034206323 0.0009240182538662 </location>
 								</PathPoint>
 								<PathPoint name="recfem_r-P4">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.00354532924508825 0.00092789858907304 0.00059327878643154</location>
+									<location>0.00349052214671372 0.00100993630380708 0.00112100360213668</location>
 								</PathPoint>
 								<PathPoint name="recfem_r-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.03182710925298343 -0.05455524313745803  0.00254264141033721</location>
+									<location> 0.03289164374691667 -0.05451494063077649  0.0092512727897887 </location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7029,31 +7029,31 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00504948122694268 -0.00897009613712276  0.10578080217502193</location>
+									<location>-0.00571987123418336 -0.00887119569340378  0.10576590375095112</location>
 								</PathPoint>
 								<PathPoint name="sart_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.02192292486147762 -0.33213283165284635 -0.02943167352795343</location>
+									<location>-0.02480536644454196 -0.33959900558364486 -0.02799714458640196</location>
 								</PathPoint>
 								<PathPoint name="sart_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02243607985305886 -0.03799912958133873 -0.04375548326223364</location>
+									<location>-0.01885765164850145 -0.0374619277007497  -0.03219572390039465</location>
 								</PathPoint>
 								<PathPoint name="sart_r-P4">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.01326717700462209 -0.05512049986520234 -0.03212466106109203</location>
+									<location>-0.0153530114456715  -0.05460783953718905 -0.02715941460457388</location>
 								</PathPoint>
 								<PathPoint name="sart_r-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.01534645503673224 -0.07243245033143879 -0.0093303358783592 </location>
+									<location> 0.0147617704135933  -0.07212215842025096 -0.00940062025812064</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7145,13 +7145,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.09519162049208987 -0.10547900147761688  0.07183330688431178</location>
+									<location>-0.09553303954403825 -0.10556530686286619  0.07240165615654726</location>
 								</PathPoint>
 								<PathPoint name="semimem_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02583914910330903 -0.04009380781422328 -0.02441131809406939</location>
+									<location>-0.02445157191691852 -0.03945240805047948 -0.01803947163861916</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7252,19 +7252,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.09896956451767137 -0.11583591483286507  0.06240752950872733</location>
+									<location>-0.09891389166935963 -0.11571108737007597  0.06240821684396836</location>
 								</PathPoint>
 								<PathPoint name="semiten_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.02823733162021216 -0.0484028621359719  -0.02800727724058282</location>
+									<location>-0.02754648231138122 -0.04773655112484198 -0.02028074813240684</location>
 								</PathPoint>
 								<PathPoint name="semiten_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.00421307038864492 -0.06971765366977248 -0.0194800301828371 </location>
+									<location> 0.00330590164982116 -0.06923933707337203 -0.01861837330313092</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7365,7 +7365,7 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.00658238953788238 -0.08418745370002752  0.00529876002020562</location>
+									<location>-0.00543632300113241 -0.0835925700902598   0.0054314617170429 </location>
 								</PathPoint>
 								<PathPoint name="soleus_r-P2">
 									
@@ -7463,25 +7463,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01461009536083748  0.01537210214320153  0.12039789545640374</location>
+									<location>-0.015235173905989    0.01535052389786603  0.12077564598474379</location>
 								</PathPoint>
 								<PathPoint name="tfl_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.01943847528508679 -0.10235834816476774  0.04637640945060491</location>
+									<location> 0.03265666637137067 -0.09838164851690649  0.03606116346901892</location>
 								</PathPoint>
 								<PathPoint name="tfl_r-P3">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.00873419731146783 -0.3794309885160151   0.03130597998776496</location>
+									<location> 0.00975138000678896 -0.380832764841704    0.03092624582170128</location>
 								</PathPoint>
 								<PathPoint name="tfl_r-P4">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.01168955888328298 -0.03755719658719101  0.03884300134357075</location>
+									<location> 0.01182057770251343 -0.03760800534440713  0.03650443354108029</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7573,19 +7573,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.01504371838051537 -0.11899836499517887  0.01185047028089645</location>
+									<location> 0.01521629768565277 -0.11879547424478683  0.01267549508560335</location>
 								</PathPoint>
 								<PathPoint name="tibant_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.02270210579040895 -0.17391975085608172  0.00754759842302296</location>
+									<location> 0.0226092681644663  -0.17404012947880054  0.00778493585636635</location>
 								</PathPoint>
 								<PathPoint name="tibant_r-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.02405684696714901 -0.35261163746337115 -0.00758745652271068</location>
+									<location> 0.02446639577202269 -0.3526691299598679  -0.00501466531975226</location>
 								</PathPoint>
 								<PathPoint name="tibant_r-P4">
 									
@@ -7683,13 +7683,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.00357191106369968 -0.11919382493702863  0.00380114945475242</location>
+									<location>-0.00311084628343959 -0.11874366264257222  0.00505203134631805</location>
 								</PathPoint>
 								<PathPoint name="tibpost_r-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location>-0.00837030446105788 -0.3532408347360199  -0.0245454803543552 </location>
+									<location>-0.00689809535948444 -0.35285569877225564 -0.02365599373810257</location>
 								</PathPoint>
 								<PathPoint name="tibpost_r-P3">
 									
@@ -7793,31 +7793,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.01512286547320786 -0.19087548366415283  0.02755998218595011</location>
+									<location> 0.02556472593428159 -0.185946885094891    0.01716358060670034</location>
 								</PathPoint>
 								<PathPoint name="vasint_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.01917763847829472 -0.2070732888725031   0.02623643780718598</location>
+									<location> 0.03099671788448327 -0.20182261666263757  0.01240002802088824</location>
 								</PathPoint>
 								<PathPoint name="vasint_r-P3">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location> 0.00436463889545537  0.04628963108839821 -0.00192870300122714</location>
+									<location> 0.0044494095829102   0.04680920839385976 -0.0017773340301633 </location>
 								</PathPoint>
 								<PathPoint name="vasint_r-P4">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.00359551157523622 0.00091059696648836 0.00010075262730479</location>
+									<location>0.00356100044764554 0.00099484501912957 0.00063657839532625</location>
 								</PathPoint>
 								<PathPoint name="vasint_r-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.03156279034775562 -0.05465413864224334  0.00459629539514309</location>
+									<location> 0.03313290391423469 -0.05451751761442034  0.00922134308780636</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -7918,31 +7918,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location>-0.00568688767090971 -0.1769401024728462   0.0292660972970093 </location>
+									<location>-0.0011228272115623  -0.17477150646536208  0.02914347059054191</location>
 								</PathPoint>
 								<PathPoint name="vaslat_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.01848964510124147 -0.25108363622545526  0.03534963369912475</location>
+									<location> 0.02674220956987636 -0.2465606440939656   0.02557589966326084</location>
 								</PathPoint>
 								<PathPoint name="vaslat_r-P3">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.00525208019377809 0.0364752246983129  0.02228642177257636</location>
+									<location>0.005673863007954   0.03672849261498504 0.02196418113135393</location>
 								</PathPoint>
 								<PathPoint name="vaslat_r-P4">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location>0.00215739618345442 0.00127548215628258 0.00975665963237831</location>
+									<location>0.00205196462967716 0.00123482169619149 0.01007326440004315</location>
 								</PathPoint>
 								<PathPoint name="vaslat_r-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.03021143445333808 -0.05497472773584329  0.01573810017935844</location>
+									<location> 0.03185429764528493 -0.05554003371528324  0.01360951437557409</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8043,31 +8043,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.0008110145574814  -0.20278951145355953  0.02050492325825054</location>
+									<location> 0.01213001933785494 -0.20081874910523562  0.00456809840763354</location>
 								</PathPoint>
 								<PathPoint name="vasmed_r-P2">
 									
 									<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 									
-									<location> 0.01988528345599229 -0.2711600009806953   0.00068755811407512</location>
+									<location> 0.02849054688378563 -0.26796674647277496 -0.00795549302795564</location>
 								</PathPoint>
 								<PathPoint name="vasmed_r-P3">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location> 0.00651830654252014  0.03993078219398524 -0.01900141076655541</location>
+									<location> 0.00662571770196647  0.03995534353526625 -0.01839174215218445</location>
 								</PathPoint>
 								<PathPoint name="vasmed_r-P4">
 									
 									<socket_parent_frame>/bodyset/patella_r</socket_parent_frame>
 									
-									<location> 0.0042723776651347   0.00056169675812998 -0.00898099840139701</location>
+									<location> 0.00435350267995259  0.00059915631419233 -0.00826284302773272</location>
 								</PathPoint>
 								<PathPoint name="vasmed_r-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 									
-									<location> 0.03243108210332106 -0.0548888678389859  -0.01011921043893774</location>
+									<location> 0.03154689988305161 -0.05509389766306023  0.00004452408622515</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8168,13 +8168,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01486091290545225 -0.09340215846184988 -0.02235473494605624</location>
+									<location>-0.01530938280346132 -0.09326922218095567 -0.02204126821000956</location>
 								</PathPoint>
 								<PathPoint name="addbrev_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.01065975455863302 -0.11405741132352136 -0.02781700510833311</location>
+									<location>-0.0211591372703213  -0.1128182874337344  -0.04244030752940665</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8275,13 +8275,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00408869706932663 -0.08922424616025892 -0.03008060764927561</location>
+									<location>-0.00418155548962013 -0.08886132464672465 -0.02950230684739044</location>
 								</PathPoint>
 								<PathPoint name="addlong_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00159097334534871 -0.23422298058515253 -0.01533013591417016</location>
+									<location> 0.01132888845036771 -0.23202606023385902  0.00013605467292165</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8382,13 +8382,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.0635278806102741  -0.11849751033721483 -0.03926417123753858</location>
+									<location>-0.06389042957120124 -0.1185722014248944  -0.0395019030822819 </location>
 								</PathPoint>
 								<PathPoint name="addmagDist_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00112842484708558 -0.25597458892729275 -0.01700726894361809</location>
+									<location> 0.01100251051551349 -0.2536499756905494  -0.00493977292723234</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8489,13 +8489,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.07866007826322788 -0.119552753892983   -0.04386740968589972</location>
+									<location>-0.078910675305757   -0.11969372980071818 -0.0440105858516662 </location>
 								</PathPoint>
 								<PathPoint name="addmagIsch_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00060756041722071 -0.36724593701264757  0.03214987390319203</location>
+									<location>-0.00007967022425139 -0.3689612679675946   0.0319898126224587 </location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8596,13 +8596,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04385977121316868 -0.11415054154027021 -0.02800670542066126</location>
+									<location>-0.04370857040643025 -0.11404165114186375 -0.02805938566047926</location>
 								</PathPoint>
 								<PathPoint name="addmagMid_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00599554260817617 -0.15806054084491553 -0.01853636481395198</location>
+									<location>-0.01253266766252602 -0.1561868177539188  -0.03586240694663236</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8703,13 +8703,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.02611946743155626 -0.1052814033821092  -0.01594883883751667</location>
+									<location>-0.0260509696797061  -0.10519708514435216 -0.01585937709126696</location>
 								</PathPoint>
 								<PathPoint name="addmagProx_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02015889377719544 -0.07255093525522216 -0.02845297094819729</location>
+									<location> 0.0088764769004826  -0.07391144151240157 -0.00427172711358879</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8810,19 +8810,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.09580279669093393 -0.1102534353632429  -0.06730982100182271</location>
+									<location>-0.09568468532402749 -0.11040291966391541 -0.06782174437438275</location>
 								</PathPoint>
 								<PathPoint name="bflh_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02840838665974607 -0.03377741845483104 -0.02367283065265045</location>
+									<location>-0.02827205260975469 -0.03376697295621441 -0.02569112957831015</location>
 								</PathPoint>
 								<PathPoint name="bflh_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02389437174495015 -0.04335077414252652 -0.02970313908133368</location>
+									<location>-0.02375509145081765 -0.0434004363197219  -0.03185361230729937</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -8914,13 +8914,13 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00666315730872288 -0.20539054715548177 -0.02304490071808626</location>
+									<location> 0.00591542192578144 -0.2038109592133218  -0.00796703941066348</location>
 								</PathPoint>
 								<PathPoint name="bfsh_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02504400976888146 -0.04016711605446111 -0.03117395390762547</location>
+									<location>-0.02490742475269063 -0.04019213105229733 -0.03345969186921912</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -9021,13 +9021,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01387544131977009 -0.10960983657229555 -0.01821756769016441</location>
+									<location>-0.01352492534890455 -0.10917493408967437 -0.01530813300082948</location>
 								</PathPoint>
 								<PathPoint name="edl_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.02086257081554327 -0.3605628215553581  -0.01792203657692732</location>
+									<location> 0.02095543144927195 -0.360331097596699   -0.01485738189994921</location>
 								</PathPoint>
 								<PathPoint name="edl_l-P3">
 									
@@ -9143,19 +9143,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01271504346625177 -0.14813988724744864 -0.01491431899566474</location>
+									<location>-0.01268649899933284 -0.14791429893166275 -0.0135459284262073 </location>
 								</PathPoint>
 								<PathPoint name="ehl_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.00737429948520804 -0.2792425005751114  -0.01471750473947158</location>
+									<location> 0.00707628808966614 -0.27914428628708116 -0.01423842754519336</location>
 								</PathPoint>
 								<PathPoint name="ehl_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.02466224386905084 -0.3536830072800811  -0.00063998530305746</location>
+									<location> 0.02427880145067848 -0.35388359967740346  0.00000145965944346</location>
 								</PathPoint>
 								<PathPoint name="ehl_l-P4">
 									
@@ -9277,13 +9277,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.00226118967894783 -0.17492810526943095  0.00947015970256939</location>
+									<location>-0.00258462850212381 -0.1749088877741015   0.00946174250599543</location>
 								</PathPoint>
 								<PathPoint name="fdl_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.00692887323710585 -0.3487563890491572   0.02305328517637747</location>
+									<location>-0.00700996303249736 -0.34893331891512913  0.02054318159520032</location>
 								</PathPoint>
 								<PathPoint name="fdl_l-P3">
 									
@@ -9411,13 +9411,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02870886971733208 -0.20825476827450648 -0.0155442381886228 </location>
+									<location>-0.02879216457221389 -0.2083783038927894  -0.01630185020871631</location>
 								</PathPoint>
 								<PathPoint name="fhl_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01236760846466652 -0.3513499146102108   0.01935294136612271</location>
+									<location>-0.01244173257457841 -0.3515564296695796   0.0161379257448729 </location>
 								</PathPoint>
 								<PathPoint name="fhl_l-P3">
 									
@@ -9539,7 +9539,7 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00259256193418977 -0.3612794307240016  -0.02740373558869567</location>
+									<location> 0.00223201372426294 -0.3619770097738469  -0.0269461756129546 </location>
 								</PathPoint>
 								<PathPoint name="gaslat_l-P2">
 									
@@ -9654,7 +9654,7 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00148087125724379 -0.35475966922713026  0.02173987847133943</location>
+									<location> 0.00259153073535005 -0.35607696017460855  0.021905006694654  </location>
 								</PathPoint>
 								<PathPoint name="gasmed_l-P2">
 									
@@ -9769,25 +9769,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.1000942786457551   0.03691441848830525 -0.05803667284861413</location>
+									<location>-0.10015361789338727  0.03686318593596377 -0.05793336609634439</location>
 								</PathPoint>
 								<PathPoint name="glmax1_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.10606919545313065 -0.01104228581583921 -0.08023278904092623</location>
+									<location>-0.1055923855981385  -0.01087169682871425 -0.08002103181066679</location>
 								</PathPoint>
 								<PathPoint name="glmax1_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.04163861628173622 -0.01982311312523237 -0.03611423784980498</location>
+									<location>-0.04229247218794449 -0.02409826095262596 -0.03293301388379447</location>
 								</PathPoint>
 								<PathPoint name="glmax1_l-P4">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02739026265598752 -0.04675367110107086 -0.04418690094668614</location>
+									<location>-0.01103681202490629 -0.04952552216800567 -0.02844343325641238</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -9888,25 +9888,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.11296531603695319  0.0170060243094077  -0.04842148098171364</location>
+									<location>-0.11290585575726829  0.01702850196764902 -0.04839261795446947</location>
 								</PathPoint>
 								<PathPoint name="glmax2_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.11609211780257123 -0.04363941708871504 -0.08519632319203888</location>
+									<location>-0.1153439401722323  -0.04347065718406917 -0.0848371839576559 </location>
 								</PathPoint>
 								<PathPoint name="glmax2_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.04440032850196279 -0.0452002910552622  -0.03114463581948012</location>
+									<location>-0.03899102809164258 -0.04974189614617933 -0.02241414907001433</location>
 								</PathPoint>
 								<PathPoint name="glmax2_l-P4">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02049427164656848 -0.09419644836773135 -0.04173563315256655</location>
+									<location>-0.0220352499560423  -0.09535371055275357 -0.04112683924924068</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10007,25 +10007,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.14022667342052564 -0.04019629524093311 -0.00959976313022139</location>
+									<location>-0.13965399041050094 -0.03974044925710872 -0.00989977064494991</location>
 								</PathPoint>
 								<PathPoint name="glmax3_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.11021652583140865 -0.10943709725464511 -0.04744666787819351</location>
+									<location>-0.10956804676762846 -0.10940006358037799 -0.04710736341715036</location>
 								</PathPoint>
 								<PathPoint name="glmax3_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.0362660324213975  -0.10199075852865351 -0.03291385678073666</location>
+									<location>-0.03695618003889649 -0.10345349542728473 -0.03311345438015396</location>
 								</PathPoint>
 								<PathPoint name="glmax3_l-P4">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.01032641615980855 -0.13594124131090876 -0.0236811258715911 </location>
+									<location>-0.03269760531889215 -0.13473345586207194 -0.06091894867018091</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10126,13 +10126,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.03706976276347178  0.02696359009104966 -0.10920189652175957</location>
+									<location>-0.03733222319990823  0.02710176690918533 -0.1093843265801241 </location>
 								</PathPoint>
 								<PathPoint name="glmed1_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.01162058579527077 -0.01165525039083488 -0.05968440368410909</location>
+									<location>-0.01175091420867622 -0.01270150467438418 -0.05742645407600134</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10224,13 +10224,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.06930364368475438  0.04920132036933723 -0.08198394511329078</location>
+									<location>-0.06923636263447451  0.04924142160863233 -0.08183149651198371</location>
 								</PathPoint>
 								<PathPoint name="glmed2_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.0178231985405154  -0.00167319301843779 -0.05798895745779659</location>
+									<location>-0.02030335080134142 -0.00336612859002284 -0.05737492677237762</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10322,13 +10322,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.0788899788026622   0.02000267016028522 -0.0643778414649854 </location>
+									<location>-0.07880424038159706  0.02005264391197512 -0.06416503087986601</location>
 								</PathPoint>
 								<PathPoint name="glmed3_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02508820395870731  0.00577266243934133 -0.05462889573043323</location>
+									<location>-0.0282249770755732   0.00330847791862752 -0.05437279148902052</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10420,13 +10420,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01754561178117104  0.00539839694243303 -0.11007614346291376</location>
+									<location>-0.01764811678529169  0.00564910418476724 -0.11016782352351177</location>
 								</PathPoint>
 								<PathPoint name="glmin1_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00371880274255646 -0.01373041018392499 -0.05453355747139459</location>
+									<location> 0.00663009667857598 -0.01325409859540548 -0.0506788997510879 </location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10518,13 +10518,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04405657626422127  0.01410438235522812 -0.09654022306183688</location>
+									<location>-0.04402044787745397  0.01434156968620342 -0.09644873059591536</location>
 								</PathPoint>
 								<PathPoint name="glmin2_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00420259049247091 -0.00796398684429997 -0.05118880214820502</location>
+									<location> 0.00536660808572334 -0.00747415368380959 -0.04881464338078755</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10616,13 +10616,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.06077429083567351 -0.0076900336161113  -0.07745770125663062</location>
+									<location>-0.06058363235231071 -0.00752150682647935 -0.07718400318548364</location>
 								</PathPoint>
 								<PathPoint name="glmin3_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.0017777033550342   0.0021275831073886  -0.05123215517442607</location>
+									<location>-0.00338262766260346  0.00196807025504796 -0.05073328174863095</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10714,19 +10714,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04009430473802182 -0.12315161166741086 -0.0245187988848731 </location>
+									<location>-0.03914088179452336 -0.12277116354658683 -0.02457699537817267</location>
 								</PathPoint>
 								<PathPoint name="grac_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01595907619612909 -0.04262780621579532  0.03747710342173392</location>
+									<location>-0.01735145000022968 -0.0425791452302602   0.03389547831582641</location>
 								</PathPoint>
 								<PathPoint name="grac_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.00394991005341881 -0.06229332662694363  0.02373330339421597</location>
+									<location> 0.00351066990456171 -0.06248704981111056  0.02201950542739065</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10827,25 +10827,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04466973196892403  0.02938585700482519 -0.08168968515896978</location>
+									<location>-0.04449959446661519  0.02958080419202361 -0.08150913107910852</location>
 								</PathPoint>
 								<PathPoint name="iliacus_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00813723325946728 -0.05120506027257397 -0.07999206094522097</location>
+									<location>-0.00767934111214659 -0.05112620322530641 -0.080560678647178  </location>
 								</PathPoint>
 								<PathPoint name="iliacus_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00697632411589831 -0.05453173898655513 -0.00530743295791194</location>
+									<location> 0.0093607954107075  -0.05381604986432808  0.00112251941532409</location>
 								</PathPoint>
 								<PathPoint name="iliacus_l-P4">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.01646524556461634 -0.05893623617924368 -0.01071279238463988</location>
+									<location> 0.00229490023288206 -0.05915532721343166 -0.00229528269288737</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -10946,19 +10946,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02214057483135274 -0.2437790588243384  -0.02224185504678028</location>
+									<location>-0.02227117260466648 -0.24394236095673716 -0.0230723308525983 </location>
 								</PathPoint>
 								<PathPoint name="perbrev_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.0190197202981909  -0.37318812312033184 -0.01417969678614522</location>
+									<location>-0.01985130164894908 -0.3737017910009114  -0.02107455974448897</location>
 								</PathPoint>
 								<PathPoint name="perbrev_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01444290658509667 -0.38381101031909515 -0.01871792865234476</location>
+									<location>-0.01594001805334561 -0.3840401631294935  -0.02560093649670542</location>
 								</PathPoint>
 								<PathPoint name="perbrev_l-P4">
 									
@@ -11062,19 +11062,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01789540364049335 -0.1312348698881935  -0.02638724824140133</location>
+									<location>-0.01766555586740638 -0.13089676882653087 -0.0244208923687123 </location>
 								</PathPoint>
 								<PathPoint name="perlong_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01727791179894398 -0.37383977000989116 -0.01394182570686257</location>
+									<location>-0.01828299482639708 -0.373637124005768   -0.01922769473750769</location>
 								</PathPoint>
 								<PathPoint name="perlong_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01350437073076552 -0.38474885613965365 -0.01814679706001424</location>
+									<location>-0.01494087070062567 -0.3848618409160979  -0.02431720896567832</location>
 								</PathPoint>
 								<PathPoint name="perlong_l-P4">
 									
@@ -11190,19 +11190,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.10563564364904542 -0.00237641545289086 -0.01326540122234191</location>
+									<location>-0.10561551785567065 -0.00224956595767657 -0.01340460791576381</location>
 								</PathPoint>
 								<PathPoint name="piri_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.08762083202157617 -0.02019965027107951 -0.06173048338914407</location>
+									<location>-0.08732858595974453 -0.02006446466424599 -0.06153583134168663</location>
 								</PathPoint>
 								<PathPoint name="piri_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.01149253341313015  0.00226299082166696 -0.04493167477043623</location>
+									<location>-0.01357130624441684  0.00116732884156943 -0.04483341259751804</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11294,25 +11294,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.04841483927591717  0.05032814424561823 -0.03895055633626121</location>
+									<location>-0.04840412247187514  0.05036799523856149 -0.03886083090591973</location>
 								</PathPoint>
 								<PathPoint name="psoas_l-P2">
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01283840954855924 -0.06104598485501454 -0.05844642251518494</location>
+									<location>-0.01272395126759192 -0.06103422870519631 -0.05788842027468059</location>
 								</PathPoint>
 								<PathPoint name="psoas_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.015277188809595   -0.04223297108598067 -0.00221166316219205</location>
+									<location>-0.01086910156377247 -0.04292160826719604 -0.00011791287339845</location>
 								</PathPoint>
 								<PathPoint name="psoas_l-P4">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02444194694656329 -0.04479659396290401 -0.00911670750105266</location>
+									<location>-0.02205681789653072 -0.04670032160245529 -0.0060516059854682 </location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11413,31 +11413,31 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01923259969450846 -0.03274993075590329 -0.08804725608913835</location>
+									<location>-0.01922804419019527 -0.03274588722044316 -0.08803711732327127</location>
 								</PathPoint>
 								<PathPoint name="recfem_l-P2">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location> 0.0048297577700453   0.04319446707118346 -0.00022066138383518</location>
+									<location>0.0047142320277425  0.05283160231838286 0.00020103190194705</location>
 								</PathPoint>
 								<PathPoint name="recfem_l-P3">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location>0.00741176475763322 0.03791820021646743 0.00187971470095082</location>
+									<location>0.00600154167732239 0.0496793923619677  0.00183360813057963</location>
 								</PathPoint>
 								<PathPoint name="recfem_l-P4">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location> 0.00425121660895255  0.00113191612313756 -0.00031434423445443</location>
+									<location> 0.00396514532499524  0.00048524837723602 -0.00104321433816562</location>
 								</PathPoint>
 								<PathPoint name="recfem_l-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.0319718186872644  -0.05622841957505761 -0.00241115269989132</location>
+									<location> 0.03149072265058007 -0.05637388334994477 -0.00829837690715177</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11538,31 +11538,31 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.00565844644601882 -0.00944405284070174 -0.09957541944054012</location>
+									<location>-0.00512579735800389 -0.00899314174022853 -0.09933015988161836</location>
 								</PathPoint>
 								<PathPoint name="sart_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.02861640502397593 -0.3400041657555181   0.02600182968407539</location>
+									<location>-0.0283555828460724  -0.3473487442876848   0.02626870458425025</location>
 								</PathPoint>
 								<PathPoint name="sart_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02285444195844173 -0.03629321842208214  0.04561261076608504</location>
+									<location>-0.02200599799342589 -0.03638689473242292  0.03632790618932391</location>
 								</PathPoint>
 								<PathPoint name="sart_l-P4">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.01348886719208067 -0.05389088770982241  0.03374739060577516</location>
+									<location>-0.0171651563112638  -0.05376973016588781  0.03411461909897735</location>
 								</PathPoint>
 								<PathPoint name="sart_l-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.01489187323124487 -0.07335904648507084  0.00841990360427657</location>
+									<location> 0.01491260687414526 -0.07353329144546163  0.00734797125802958</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11654,13 +11654,13 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.09029847740708132 -0.10523275359456381 -0.06903558562634846</location>
+									<location>-0.09074479219394078 -0.10548375102148512 -0.06980057738455935</location>
 								</PathPoint>
 								<PathPoint name="semimem_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02586838961718082 -0.03815490199229447  0.02564316682331359</location>
+									<location>-0.02642447511508283 -0.03807182467565658  0.02204986580460169</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11761,19 +11761,19 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.09429133650962371 -0.1154526306084274  -0.05860148220371372</location>
+									<location>-0.09412864925773784 -0.11556937151957197 -0.05885670097020355</location>
 								</PathPoint>
 								<PathPoint name="semiten_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.02822533874029083 -0.04652218675209519  0.02933974925822707</location>
+									<location>-0.02992640232979882 -0.04640597269483456  0.02596249371095183</location>
 								</PathPoint>
 								<PathPoint name="semiten_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.00396236932753474 -0.06978430650259103  0.01962014269444391</location>
+									<location> 0.00349114034052659 -0.06994181679494378  0.01861913300425654</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -11874,7 +11874,7 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.00575375255602576 -0.0852247000373978  -0.00729369506621994</location>
+									<location>-0.00539905289582302 -0.08481021560065767 -0.00369060360426308</location>
 								</PathPoint>
 								<PathPoint name="soleus_l-P2">
 									
@@ -11972,25 +11972,25 @@
 									
 									<socket_parent_frame>/bodyset/pelvis</socket_parent_frame>
 									
-									<location>-0.01490740829607792  0.01424157078186557 -0.11955350526344065</location>
+									<location>-0.01539125133949742  0.0142685388301068  -0.11988341266219013</location>
 								</PathPoint>
 								<PathPoint name="tfl_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.02047443938634748 -0.10373974707221015 -0.04820839389434995</location>
+									<location> 0.03620339472678295 -0.10062005265343364 -0.03489355611628418</location>
 								</PathPoint>
 								<PathPoint name="tfl_l-P3">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00913333842576536 -0.38892264597334986 -0.03139377684432756</location>
+									<location> 0.00984836796343686 -0.3899622896674938  -0.02999001882413852</location>
 								</PathPoint>
 								<PathPoint name="tfl_l-P4">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.01174751830239804 -0.03806607309635836 -0.04019123120990924</location>
+									<location> 0.01120261447174173 -0.03787666610435096 -0.03783411259677909</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -12082,19 +12082,19 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.0150470327359829  -0.12393505499963024 -0.01350361358765891</location>
+									<location> 0.01516140232860018 -0.12385146293944052 -0.0126036805098746 </location>
 								</PathPoint>
 								<PathPoint name="tibant_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.02290605758025368 -0.18228909760490652 -0.00887227690002454</location>
+									<location> 0.02262885382095318 -0.18233741629958905 -0.00895510133687311</location>
 								</PathPoint>
 								<PathPoint name="tibant_l-P3">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.02636590253835148 -0.35025622002006984  0.0041467974077297 </location>
+									<location> 0.02561787619265249 -0.3508831111370421   0.00442293005740375</location>
 								</PathPoint>
 								<PathPoint name="tibant_l-P4">
 									
@@ -12192,13 +12192,13 @@
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.0029660373887694  -0.12329793372456425 -0.00509941151416635</location>
+									<location>-0.00290088064392539 -0.12304052588314701 -0.00325588239285566</location>
 								</PathPoint>
 								<PathPoint name="tibpost_l-P2">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location>-0.00580026423704938 -0.34956946732545885  0.02840533461844357</location>
+									<location>-0.00584858308294551 -0.34974537836944514  0.02610494821823693</location>
 								</PathPoint>
 								<PathPoint name="tibpost_l-P3">
 									
@@ -12302,31 +12302,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.0156282769763134  -0.1936718658715252  -0.02515216302908619</location>
+									<location> 0.02681928045108888 -0.18932206213753724 -0.01587150542008135</location>
 								</PathPoint>
 								<PathPoint name="vasint_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.019292248071406   -0.2102527478491234  -0.02387137031188009</location>
+									<location> 0.03293178525518176 -0.20530977332408992 -0.01052957157445741</location>
 								</PathPoint>
 								<PathPoint name="vasint_l-P3">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location>0.00172961500225738 0.04339720225282474 0.00221824788442865</location>
+									<location>0.00262351210129449 0.05066212009084473 0.00309077887617212</location>
 								</PathPoint>
 								<PathPoint name="vasint_l-P4">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location>0.00430615384065208 0.0011239020471001  0.00019958949908622</location>
+									<location> 0.00400941489817841  0.00049820335051049 -0.00064804332098262</location>
 								</PathPoint>
 								<PathPoint name="vasint_l-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.03176673812428847 -0.05639610358592563 -0.00453096435100967</location>
+									<location> 0.03146112622394803 -0.05640372078486652 -0.00892385905864102</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -12427,31 +12427,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location>-0.00416996965120639 -0.18055876964020745 -0.02705080584065771</location>
+									<location>-0.0007899987449093  -0.17867144925563822 -0.02748943721028578</location>
 								</PathPoint>
 								<PathPoint name="vaslat_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.0197728568325105  -0.2563147357159418  -0.03366500097673779</location>
+									<location> 0.02942907707666831 -0.25145659449594077 -0.02251025669931002</location>
 								</PathPoint>
 								<PathPoint name="vaslat_l-P3">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location> 0.00222059441708156  0.03744009806463646 -0.02005738803798719</location>
+									<location> 0.00205181693325284  0.0374590437902869  -0.02025859717473665</location>
 								</PathPoint>
 								<PathPoint name="vaslat_l-P4">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location> 0.00322587576508575  0.00125239435359799 -0.00986006439282857</location>
+									<location> 0.00299856608295995  0.00019439007050499 -0.00896289120572777</location>
 								</PathPoint>
 								<PathPoint name="vaslat_l-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.03076115126112317 -0.05709338402023084 -0.01595903924518645</location>
+									<location> 0.0293231000429619  -0.05665793931331601 -0.01487907584001056</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -12552,31 +12552,31 @@
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.00027616264089171 -0.20673942513936022 -0.01838664648588775</location>
+									<location> 0.01428191520323635 -0.20423160076422603 -0.00277011727271485</location>
 								</PathPoint>
 								<PathPoint name="vasmed_l-P2">
 									
 									<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 									
-									<location> 0.01861569916476913 -0.27636047998286395  0.00187310279032052</location>
+									<location> 0.02893080652191747 -0.27220654513427256  0.01135097083114523</location>
 								</PathPoint>
 								<PathPoint name="vasmed_l-P3">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location>0.0035555661330956  0.04023335627245484 0.01993177529498064</location>
+									<location>0.00346464983153989 0.04548338366215381 0.02028599514598973</location>
 								</PathPoint>
 								<PathPoint name="vasmed_l-P4">
 									
 									<socket_parent_frame>/bodyset/patella_l</socket_parent_frame>
 									
-									<location>0.00537227374387187 0.00091982195801529 0.00963392159083718</location>
+									<location>0.00501033358174416 0.00018591611272888 0.00641904630252117</location>
 								</PathPoint>
 								<PathPoint name="vasmed_l-P5">
 									
 									<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 									
-									<location> 0.03226797713418763 -0.05617212649224172  0.01055061304812299</location>
+									<location> 0.03183045589532722 -0.05711118149769646 -0.00493340036373006</location>
 								</PathPoint>
 							</objects>
 							<groups />
@@ -12875,7 +12875,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location> 0.01175563714856901 -0.19792648622757134  0.06824104052626127</location>
+					<location> 0.02282071268179031 -0.19269703092413876  0.05576998470481255</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12883,7 +12883,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location> 0.01485104861883687 -0.27200024521124194  0.06057203576869803</location>
+					<location> 0.02191023063032203 -0.26747106756112193  0.0535915607835329 </location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12891,7 +12891,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location> 0.04122635187698998 -0.2443172239236363   0.05185151945348822</location>
+					<location> 0.05306298168754517 -0.23528428575782312  0.04106614902768481</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12899,7 +12899,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location>-0.01499353873860827 -0.00542261241248281  0.08824348755141026</location>
+					<location>-0.01266893633581896 -0.00551389942574096  0.085792063408372  </location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12907,7 +12907,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location>-0.00001694751657317 -0.3748661909471507   0.04947194282195153</location>
+					<location> 0.00016214471307172 -0.3762680728954602   0.04942539986184035</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12915,7 +12915,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location>-0.00013834285483131 -0.3775061477075743  -0.04997081945224321</location>
+					<location>-0.00018173525712167 -0.38417434170718434 -0.05009503065858661</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12923,7 +12923,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location> 0.01465047969353243 -0.20811482771025086 -0.04890287643538953</location>
+					<location> 0.02676514725220392 -0.20405385418302385 -0.03675849963891356</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12931,7 +12931,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location> 0.00626102853511206 -0.2820136093762934  -0.04903590316336288</location>
+					<location> 0.01251368381281586 -0.2802290038137466  -0.04139866162101034</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12939,7 +12939,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location> 0.04376471699523403 -0.25637176128179884 -0.02624591421906475</location>
+					<location> 0.05545217435991937 -0.24948745736513092 -0.01688203254339684</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12947,7 +12947,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location>-0.01607218916463409 -0.00900648417553512 -0.08967409925895624</location>
+					<location>-0.0153528661436934  -0.01055153794117825 -0.08583270837674066</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12955,7 +12955,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location>-0.00004332242203487 -0.38469135656079567 -0.04993665448378667</location>
+					<location> 0.0000932740634556  -0.3864602141845966  -0.04848296953666296</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12963,7 +12963,7 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location>-0.00010740830607025 -0.3861839241475117   0.05048060670511583</location>
+					<location>-0.00012093210196652 -0.3881366243141612   0.04915602902350445</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12971,7 +12971,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 					
-					<location>-0.00256075760275218 -0.12734062777991575  0.06429549606355675</location>
+					<location>-0.00252806934433622 -0.12721470288658096  0.06442644407127424</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12979,7 +12979,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 					
-					<location>-0.03317712461709545 -0.17046973313425753  0.06111416491351759</location>
+					<location>-0.03297835373346652 -0.1701713233809924   0.06129639611843778</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12987,7 +12987,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 					
-					<location> 0.00862270434859049 -0.21660408955551047  0.06230643107862011</location>
+					<location> 0.00865161355244838 -0.2166215262537253   0.06234898472942067</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -12995,7 +12995,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 					
-					<location> 0.00288841901509792 -0.36681083871446285  0.0583756020104832 </location>
+					<location> 0.00278293741850204 -0.36623882035981387  0.0582944561099835 </location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13003,7 +13003,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_r</socket_parent_frame>
 					
-					<location> 0.01276470762058061 -0.3628904519041395  -0.04407792397786228</location>
+					<location> 0.01267554251391802 -0.36222844844935914 -0.04414687969259876</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13011,7 +13011,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 					
-					<location>-0.01166323278808731 -0.12810776813539326 -0.07936594930957439</location>
+					<location>-0.01177044586054641 -0.12809556262000726 -0.07932790395876704</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13019,7 +13019,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 					
-					<location> 0.02621901469235298 -0.17208336610293729 -0.0747219291181026 </location>
+					<location> 0.02595013947435767 -0.17211243606848578 -0.0746347229717138 </location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13027,7 +13027,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 					
-					<location>-0.0085775313613417 -0.2293175720905789 -0.0743206827343448</location>
+					<location>-0.00883145267629045 -0.22930170619979678 -0.07423399758369174</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13035,7 +13035,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 					
-					<location> 0.0023895978519846  -0.3675447618889761  -0.06189755198078396</location>
+					<location> 0.00217465499500712 -0.3675457309689691  -0.06177202103692952</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13043,7 +13043,7 @@
 					
 					<socket_parent_frame>/bodyset/tibia_l</socket_parent_frame>
 					
-					<location> 0.01415754951215538 -0.3624346605179262   0.04579738383532082</location>
+					<location> 0.01398172464814536 -0.3624572606559535   0.04583511138664199</location>
 					
 					<fixed>false</fixed>
 				</Marker>
@@ -13117,25 +13117,25 @@
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location> 0.03938424791699931 -0.4105813031448494   0.00330035728644763</location>
+					<location> 0.04149510482283023 -0.40945227567916986  0.00291459553512497</location>
 				</Marker>
 				<Marker name="patella_r_in_femur_r">
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location> 0.03912612840373217 -0.4028419162240925  -0.00181445139397815</location>
+					<location> 0.04136963044643471 -0.40210182193702737 -0.00300016972296909</location>
 				</Marker>
 				<Marker name="knee_l_center_in_femur_l">
 					
 					<socket_parent_frame>/bodyset/femur_l</socket_parent_frame>
 					
-					<location> 0.00007896905263737 -0.38581476414165355  0.00140648103639067</location>
+					<location>-0.00000290856079676 -0.3877017931761645   0.00128970220316093</location>
 				</Marker>
 				<Marker name="knee_r_center_in_femur_r">
 					
 					<socket_parent_frame>/bodyset/femur_r</socket_parent_frame>
 					
-					<location> 0.00008228793978736 -0.3765536174467907  -0.00140927123719597</location>
+					<location>-0.00008592514684046 -0.38064508392695484 -0.00129662134372074</location>
 				</Marker>
 				<Marker name="talus_l_center_in_tibia">
 					
