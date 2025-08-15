@@ -142,12 +142,20 @@ class MomentArmAnalyzer:
                 femur = f'femur{side}'
                 tibia = f'tibia{side}'
                 calcn = f'calcn{side}'
+                patella = f'patella{side}'
                 
                 # Muscles spanning femur to calcn or femur to tibia (but not calcn)
                 if ((femur in bodies and calcn in bodies) or 
-                    (tibia in bodies and calcn not in bodies)):
+                    (femur in bodies and tibia in bodies)):
                     coords.append(f'knee_angle{side}')
-            
+                
+                if patella in bodies:
+                    coords.append(f'knee_angle{side}')
+                    coords.append(f'knee_angle{side}_beta')
+
+                if (calcn in bodies) and ((tibia in bodies) or (femur in bodies)):
+                    coords.append(f'ankle_angle{side}')
+
             muscle_coords[muscle] = coords
         
         return muscle_coords
@@ -353,8 +361,8 @@ class MomentArmAnalyzer:
         
         # Create figure and subplots
         fig, axs = plt.subplots(rows, cols, figsize=(cols*3, rows*3))
-        fig.suptitle(f'Muscle Moment Arms - {coord_name.replace("_", " ").title()}', fontsize=18, y=1)
-        fig.subplots_adjust(top=0.9, bottom=0.1, wspace=0.3, hspace=0.4)
+        fig.suptitle(f'Muscle Moment Arms - {coord_name.replace("_", " ").title()}', fontsize=18, y=1.05)
+        fig.subplots_adjust(top=0.89, bottom=0.1, wspace=0.3, hspace=0.4)
         
         # Handle single subplot case
         if rows == 1 and cols == 1:
@@ -421,12 +429,10 @@ class MomentArmAnalyzer:
         fig.legend(
             handles=custom_legend,
             loc='upper center', 
-            bbox_to_anchor=(0.5, 0.97),
+            bbox_to_anchor=(0.5, 0.99),
             ncol=2, 
             fontsize=12,
-            frameon=True,
-            fancybox=True,
-            shadow=True
+            frameon=False
         )
         
         plt.tight_layout()

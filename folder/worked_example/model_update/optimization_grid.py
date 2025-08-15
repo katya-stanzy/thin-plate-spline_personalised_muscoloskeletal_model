@@ -168,7 +168,7 @@ class AdjustPersonal:
         
         for muscle_name in muscle_list:
             processed += 1
-            self.logger.info(f" ------------ Processing muscle {processed}/{total_muscles}: {muscle_name} ----------------")
+            self.logger.info(f"\n ------------ Processing muscle {processed}/{total_muscles}: {muscle_name} ----------------")
             
             # IMPORTANT: Reinitialize state at the start of each muscle
             self.pers_state = self.pers.initSystem()
@@ -204,14 +204,10 @@ class AdjustPersonal:
             self.process_one_muscle('knee_angle_r', muscle_name)#('knee_angle_r_beta', muscle_name) 
         
         # Right knee muscles
-        if ('patella_r' not in muscle_bodies) and ('femur_r' in muscle_bodies) and ('calcn_r' in muscle_bodies):
+        if ('femur_r' in muscle_bodies) and ('calcn_r' in muscle_bodies) or ('tibia_r' in muscle_bodies): 
             self.logger.info(f"Processing knee joint muscle (right): {muscle_name}")
             self.process_one_muscle('knee_angle_r', muscle_name)
         
-        # Muscles crossing only right knee
-        if ('patella_r' not in muscle_bodies) and ('tibia_r' in muscle_bodies) and ('calcn_r' not in muscle_bodies):
-            self.logger.info(f"Processing knee-only muscle (right): {muscle_name}")
-            self.process_one_muscle('knee_angle_r', muscle_name)
 
         # Right ankle muscles
         if 'tibia_r' in muscle_bodies and 'calcn_r' in muscle_bodies:
@@ -224,14 +220,10 @@ class AdjustPersonal:
             self.process_one_muscle('knee_angle_l', muscle_name) #('knee_angle_l_beta', muscle_name) 
     
        # Left knee muscles
-        if ('patella_l' not in muscle_bodies) and ('femur_l' in muscle_bodies) and ('calcn_l' in muscle_bodies):
+        if  ('femur_l' in muscle_bodies) and ('calcn_l' in muscle_bodies) or  ('tibia_l' in muscle_bodies): #
             self.logger.info(f"Processing knee joint muscle (left): {muscle_name}")
             self.process_one_muscle('knee_angle_l', muscle_name)           
         
-        # Muscles crossing only left knee
-        if ('patella_l' not in muscle_bodies) and ('tibia_l' in muscle_bodies) and ('calcn_l' not in muscle_bodies):
-            self.logger.info(f"Processing knee-only muscle (left): {muscle_name}")
-            self.process_one_muscle('knee_angle_l', muscle_name)
         
         # Left ankle muscles
         if 'tibia_l' in muscle_bodies and 'calcn_l' in muscle_bodies:
@@ -797,12 +789,16 @@ class AdjustPersonal:
                         muscle_copy = osim.Muscle.safeDownCast(pers_copy.getForceSet().get(muscle_name))
                         moment_arms = self._calculate_moment_arms(
                             pers_copy, state_copy, coordinate_copy, muscle_copy, coord_values)
-                        best_ma_diff_val, best_drop = self._compare_moment_arms(gen_moment_arms, moment_arms)
+                        try:
+                            new_ma_diff_val, new_best_drop = self._compare_moment_arms(gen_moment_arms, moment_arms)
+                        except Exception as e:
+                            self.logger.error(f"Error comparing moment arms: {e}")
+                            new_ma_diff_val, new_best_drop = best_error_val, best_drop
                         best_moment_arms = moment_arms
 
-                        self.logger.info(f"New best point: {params}, obj.funct.error: {error}, m.a.error {best_ma_diff_val}, drop: {best_drop}")
+                        self.logger.info(f"New best point: {params}, obj.funct.error: {error}, m.a.error {new_ma_diff_val}, drop: {new_best_drop}")
 
-        self.logger.info(f"Grid search complete. Best m.a.error: {best_ma_diff_val}, best drop: {best_drop}")
+        self.logger.info(f"Grid search complete. Best m.a.error: {new_ma_diff_val}, best drop: {new_best_drop}")
         
         # STEP 2: One local optimization from best grid point
         self.logger.info("Starting local optimization from best grid point")
@@ -878,7 +874,7 @@ class AdjustPersonal:
                 accept_grid = False
                 
                 # Grid Case 1: Similar criteria for grid search solution
-                if best_ma_diff_val < initial_ma_diff * 0.5:
+                if new_ma_diff_val < initial_ma_diff * 0.5:
                     accept_grid = True
                     self.logger.info("Grid solution accepted: Significant ma improvement (>50%)")
 
@@ -888,7 +884,7 @@ class AdjustPersonal:
                     self.logger.info("Grid solution accepted: Drop eliminated with reasonable displacement")
 
                 # Grid Case 3: Some error improvement and some drop improvement
-                elif best_ma_diff_val < initial_ma_diff and best_drop == 0:
+                elif new_ma_diff_val < initial_ma_diff and best_drop == 0:
                     accept_grid = True
                     self.logger.info("Grid solution accepted: Smaller error and zero drop")
                 
@@ -912,7 +908,7 @@ class AdjustPersonal:
             accept_grid = False
             
             # Grid Case 1: Similar criteria for grid search solution
-            if best_ma_diff_val < initial_ma_diff * 0.5:
+            if new_ma_diff_val < initial_ma_diff * 0.5:
                 accept_grid = True
                 self.logger.info("Grid solution accepted: Significant ma improvement (>50%)")
 
@@ -922,7 +918,7 @@ class AdjustPersonal:
                 self.logger.info("Grid solution accepted: Drop eliminated with reasonable displacement")
 
             # Grid Case 3: Some error improvement and some drop improvement
-            elif best_ma_diff_val < initial_ma_diff and best_drop == 0:
+            elif new_ma_diff_val < initial_ma_diff and best_drop == 0:
                 accept_grid = True
                 self.logger.info("Grid solution accepted: Smaller error and zero drop")
             
