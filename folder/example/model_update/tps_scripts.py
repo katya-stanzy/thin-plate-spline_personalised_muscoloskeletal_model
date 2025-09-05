@@ -437,13 +437,15 @@ class OneBodyTPS:
                  mri_bone, 
                  osim_muscle = None,
                  osim_skin = None,  
-                 exclude_bone_markers = None):
+                 exclude_bone_markers = None,
+                 alpha = 0.002):
         self.name = body_name
         self.osim_bone = osim_bone
         self.mri_bone = mri_bone
         self.osim_skin = osim_skin
         self.osim_muscle = osim_muscle
         self.exclude = exclude_bone_markers
+        self.alpha = alpha
 
         self.define_tps_spline()
         self.apply_spline_to_bone_and_muscle()
@@ -453,7 +455,7 @@ class OneBodyTPS:
             include = [x for x in self.osim_bone.index if x not in self.exclude]
         else:   include = self.osim_bone.index
             # create a spline transformation
-        self.tps_spline = ThinPlateSpline(alpha = 0.02)
+        self.tps_spline = ThinPlateSpline(alpha = self.alpha)
         self.tps_spline.fit(self.osim_bone.loc[include, ['r','a','s']].to_numpy(), 
                        self.mri_bone.loc[include, ['r','a','s']].to_numpy())
             # apply transformation to the full set of bone markers and muscle paths
