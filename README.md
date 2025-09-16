@@ -27,9 +27,9 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
    - (c) Install an older version of Slicer: https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/5f4474d0e1d8c75dfc705482
    
 2. Preliminary: 
-- (a) Check that a static trial has been extracted from the C3D file (follow the notebook **"model_update/1_extract_static_c3D.ipynb"**). Please note the path and the name of this file. It will be required in following notebooks.
-- (b) Create a template with all landmarks in the ground frame. To do so, use the notebook **"mri/results/create_template.ipynb"**. This step is needed to be done only once provided that the template folder is copied to/used for all individuals.
-- (c) Create a Python environment using the supplied .yml file. This environment will be needed for those notebooks that do not depend on the 3DSlicer Jupyter kernel.
+   - (a) Check that a static trial has been extracted from the C3D file (follow the notebook **"model_update/1_extract_static_c3D.ipynb"**). Please note the path and the name of this file. It will be required in following notebooks.
+   - (b) Create a template with all landmarks in the ground frame. To do so, use the notebook **"mri/results/create_template.ipynb"**. This step is needed to be done only once provided that the template folder is copied to/used for all individuals.
+   - (c) Create a Python environment using the supplied .yml file. This environment will be needed for those notebooks that do not depend on the 3DSlicer Jupyter kernel.
 
 3. Follow instructions in the notebook **"mri/results/orientation_with_tps.ipynb"**. To use it with 3DSlicer, you need to have installed 3DSlicer with JupyterKernel extension. The present code was created in 3DSlicer 5.6.2. Once the kernel is installed, you should be able to choose it as the environment to run the notebook (we use VS Code as an IDE. VS Code is able to detect 3DSlicer Jupyter kernel installation after it has been closed and opened again). The kernel, once loaded, will aitomatically open a managed 3DSlicer window. Once 3DSlicer kernel is activated, please run 'pip install thin-plate-spline' to install this library in the kernel. Please note, that you can only close this window if you close the managing notebook.
 
