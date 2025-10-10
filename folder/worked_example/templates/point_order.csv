@@ -4,11 +4,11 @@ count,name,body,order
 3,ASIS_r,pelvis,1
 4,PSIS_l,pelvis,1
 5,PSIS_r,pelvis,1
-6,pub_infer_c,pelvis,1
-7,pub_super_c,pelvis,1
-8,ilium_l,pelvis,1
-9,ilium_r,pelvis,1
-10,pelvis_origin_in_ground,,
+6,pelvis_origin_in_ground,ground,1
+7,pub_infer_c,pelvis,1
+8,pub_super_c,pelvis,1
+9,ilium_l,pelvis,1
+10,ilium_r,pelvis,1
 11,femur_l_center,femur_l,1
 12,knee_l_center,tibia_l,1
 13,knee_l_lat,femur_l,1
