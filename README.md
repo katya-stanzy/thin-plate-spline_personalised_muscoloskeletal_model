@@ -27,6 +27,7 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
    - (c) Install an older version of Slicer: https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/5f4474d0e1d8c75dfc705482
 
 2. Example directory structure:
+<pre>
    ├── example
       ├── final_results
       ├── model_update
@@ -83,7 +84,7 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
          ├── markers_and_bone_markers_in_bodies.xml
          ├── point_order.csv
          └── scaling_setting.xml
-   
+</pre>
 3. Preliminary: 
    - (a) Check that a static trial has been extracted from the C3D file (follow the notebook **"model_update/1_extract_static_c3D.ipynb"**). Please note the path and the name of this file. It will be required in following notebooks.
    - (b) Create a template with all landmarks in the ground frame. To do so, use the notebook **"mri/results/create_template.ipynb"**. This step is needed to be done only once provided that the template folder is copied to/used for all individuals.
