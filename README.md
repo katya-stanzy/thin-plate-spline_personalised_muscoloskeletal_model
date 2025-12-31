@@ -24,7 +24,9 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
    - (b) ensure environment.yml is in your project folder, from a commandline run 
             <pre>```cd <project_path>```</pre>
             <pre>```conda env create -f environment.yml```</pre>
-   - (c) Install an older version of Slicer: https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/5f4474d0e1d8c75dfc705482
+   - (c) Install an older version of 3D Slicer: https://slicer-packages.kitware.com/#collection/5f4474d0e1d8c75dfc70547e/folder/5f4474d0e1d8c75dfc705482 . Installation instructions can be found on the official website: https://slicer.readthedocs.io/en/latest/user_guide/getting_started.html . 3D Slicer Jupyter extension is not available in the newest Slicer 3D version. Therefore, use the recommended older version (Slicer 5.6.2).
+   - (d) Install Jupyter extension in 3D Slicer. This should be done within the software with the help of Exension Manager https://slicer.readthedocs.io/en/latest/user_guide/extensions.html. Once Jupyter extension was installed, close the current window of the software and re-start Slicer. Locate Jupyter in 'Developers Tools' from the drop-down "Modules:" menue, set a location for notebook directory and click 'Start Jupyter Server'. This will start Slicer Python kernel. Close 3D Slicer.
+   - (e) Slicer Python kernel should now be detectable from your chosen Jupyter IDE. On launching the kernel, a managed version of 3D Slicer starts automatically. Visual Studio Code (https://code.visualstudio.com/), one of many one possible IDEs, was used by the authors of the publication.
 
 2. Example directory structure:
 <pre>
@@ -90,7 +92,11 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
    - (b) Create a template with all landmarks in the ground frame. To do so, use the notebook **"mri/results/create_template.ipynb"**. This step is needed to be done only once provided that the template folder is copied to/used for all individuals.
    - (c) Create a Python environment using the supplied .yml file. This environment will be needed for those notebooks that do not depend on the 3DSlicer Jupyter kernel.
 
-4. Follow instructions in the notebook **"mri/results/orientation_with_tps.ipynb"**. To use it with 3DSlicer, you need to have installed 3DSlicer with JupyterKernel extension. The present code was created in 3DSlicer 5.6.2. Once the kernel is installed, you should be able to choose it as the environment to run the notebook (we use VS Code as an IDE. VS Code is able to detect 3DSlicer Jupyter kernel installation after it has been closed and opened again). The kernel, once loaded, will aitomatically open a managed 3DSlicer window. Once 3DSlicer kernel is activated, please run 'pip install thin-plate-spline' to install this library in the kernel. Please note, that you can only close this window if you close the managing notebook.
+4. VS Code is able to detect 3DSlicer Jupyter kernel installation after it has been closed and opened again. The kernel, once loaded, will aitomatically open a managed 3DSlicer window. 
+
+Open notebook **"mri/results/orientation_with_tps.ipynb"**.  Once 3DSlicer kernel is activated, please run 'pip install thin-plate-spline' to install this library in the kernel. Please note, that you can only close this window if you close the managing notebook.
+
+The notebook will guide your actions step-by-step interactively. You can find instructions for using Markups module in 3D Slicer and landmark collection here: https://slicer.readthedocs.io/en/latest/user_guide/modules/markups.html. 3D Slicer project that you will have create will have to be saved via File -> Save Data -> "Save Scene and Unsaved Data" window. Please do not create a zip folder for the project, as its files will have to be accessible for Jupyter IDE.
 
 5. Once all bone landmarks were collected for the individual, use the notebook **"model_update/2.0_use_mri_data.ipynb"** to create bone surfaces, mucle points and wrapping surfaces locations for the individual.
 
