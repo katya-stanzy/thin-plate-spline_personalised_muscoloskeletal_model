@@ -1,0 +1,55 @@
+├── final_results
+├── model_update
+│   ├── Geometry
+│   ├── logs_optimisation
+│   ├── 1_extract_static_C3D.ipynb
+│   ├── 2.0_use_mri_data.ipynb
+│   ├── 2.1_after_controlling_mri_data.ipynb
+│   ├── 3_scale_generic_model.ipynb
+│   ├── 4_update_generic_model_with_mri_data.ipynb
+│   ├── 5_optimize_muscles.ipynb
+│   ├── fibre_scale_script.py
+│   ├── importEMG.py
+│   ├── momentArms_plot.py
+│   ├── opensim.log
+│   ├── optimization_grid.py
+│   ├── rotation_utils.py
+│   ├── simFunctions.py
+│   ├── stan_utils.py
+│   ├── tps_scripts.py
+│   └── wrap_scripts.py
+├── motion_lab
+│   └── static
+│       └── Static03
+│           ├── Static03.c3d
+│           ├── df_steps.csv
+│           ├── task.trc
+│           └── task_grf.mot
+├── mri
+│   ├── DICOM
+│   ├── control
+│   │   ├── LinearTransform.h5
+│   │   └── control.ipynb
+│   └── results
+│       ├── Bone_Landmarks_in_3DSlicer.pptx
+│       ├── create_template.ipynb
+│       ├── orientation_with_tps.ipynb
+│       └── tps_scripts.py
+└── templates
+    ├── GRF_setup.xml
+    ├── ID_setup.xml
+    ├── IK_setup.xml
+    ├── JRF_setup.xml
+    ├── RajagopalLaiUhlrich2023_edited.osim
+    ├── RajagopalLaiUhlrich2023_edited_with_bone_markers.osim
+    ├── RajagopalLaiUhlrich2023_edited_with_bone_markers_for_mrkrs_scaling.osim
+    ├── RajagopalModified_generic_copy.osim
+    ├── RajagopalModified_generic_copy_with_bone_markers.osim
+    ├── SO_setup.xml
+    ├── bone_markers_in_ground.csv
+    ├── final_actuators.xml
+    ├── generic_skin_markers.xml
+    ├── marker_placer.xml
+    ├── markers_and_bone_markers_in_bodies.xml
+    ├── point_order.csv
+    └── scaling_setting.xml
