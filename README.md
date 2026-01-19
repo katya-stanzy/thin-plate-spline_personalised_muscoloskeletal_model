@@ -56,7 +56,6 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
       │   ├── fibre_scale_script.py
       │   ├── importEMG.py
       │   ├── momentArms_plot.py
-      │   ├── opensim.log
       │   ├── optimization_grid.py
       │   ├── rotation_utils.py
       │   ├── simFunctions.py
