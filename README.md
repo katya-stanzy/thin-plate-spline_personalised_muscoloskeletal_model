@@ -81,18 +81,9 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
       │       ├── orientation_with_tps.ipynb
       │       └── tps_scripts.py
       └── templates
-         ├── GRF_setup.xml
-         ├── ID_setup.xml
-         ├── IK_setup.xml
-         ├── JRF_setup.xml
-         ├── RajagopalLaiUhlrich2023_edited.osim
-         ├── RajagopalLaiUhlrich2023_edited_with_bone_markers.osim
-         ├── RajagopalLaiUhlrich2023_edited_with_bone_markers_for_mrkrs_scaling.osim
          ├── RajagopalModified_generic_copy.osim
          ├── RajagopalModified_generic_copy_with_bone_markers.osim
-         ├── SO_setup.xml
          ├── bone_markers_in_ground.csv
-         ├── final_actuators.xml
          ├── generic_skin_markers.xml
          ├── marker_placer.xml
          ├── markers_and_bone_markers_in_bodies.xml
