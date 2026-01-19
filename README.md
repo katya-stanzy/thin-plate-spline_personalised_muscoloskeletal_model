@@ -2,15 +2,27 @@
 
 **Files in this repository create a pipeline for personalisation of an OpenSim model.**
 
+## Data Availability
+- **Example dataset**: Full worked example in `worked_example/` folder
+- **Template files**: OpenSim model templates in `example/templates/`
+- **Test data**: Anonymized MRI and motion capture data available upon request
+
 To get full information please refer to the publication.
 
 The folder 'worked_example' contains an individual with full set of results. The folder 'example' contains everything to repeat 'worked_example'.
 
+## Prerequisites
+Users should have:
+- Basic knowledge of OpenSim musculoskeletal modeling
+- Familiarity with Jupyter notebooks and Python
+- Understanding of MRI image formats (DICOM)
+- Access to: MRI scans, motion capture data, static trials
+
 To be able to use this pipeline, you need 
 <ul style="float:left;">
-<li> a static trial with reflective markers fitted on the sin of the participant </li>
+<li> a static trial with reflective markers fitted on the skin of the participant </li>
 <li> an MRI of the participant</li> 
-<li> to have developed a set of bone markers on the surface of the bones of your chosen OpenSim model. These should as many as needed to describe the geometry of each bone plus the centre of its rotation. </li>
+<li> to have developed a set of bone markers on the surface of the bones of your chosen OpenSim model. These should as many as are needed to describe the geometry of each bone plus the centre of its rotation. </li>
 </ul>
 
 We provide an example with a set of markers developed for **Rajagopal et al. (2016)** model, where we personalize pelvis, femora, patellae and tibiae segments.
