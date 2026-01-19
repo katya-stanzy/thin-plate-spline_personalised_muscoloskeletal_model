@@ -54,7 +54,6 @@ We provide an example with a set of markers developed for **Rajagopal et al. (20
       │   ├── 4_update_generic_model_with_mri_data.ipynb
       │   ├── 5_optimize_muscles.ipynb
       │   ├── fibre_scale_script.py
-      │   ├── importEMG.py
       │   ├── momentArms_plot.py
       │   ├── optimization_grid.py
       │   ├── rotation_utils.py
