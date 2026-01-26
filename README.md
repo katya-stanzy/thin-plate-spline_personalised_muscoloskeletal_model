@@ -12,20 +12,26 @@ To get full information please refer to the publication.
 The folder 'worked_example' contains an individual with full set of results. The folder 'example' contains everything to repeat 'worked_example'.
 
 ## Prerequisites
+
+### Software & Skills
 Users should have:
 - Basic knowledge of OpenSim musculoskeletal modeling
-- Familiarity with Jupyter notebooks and Python
+- Familiarity with Jupyter notebooks and Python programming
 - Understanding of MRI image formats (DICOM)
-- Access to: MRI scans, motion capture data, static trials
+- Experience with 3D Slicer, particularly the Markups module
+  - [3D Slicer Documentation](https://slicer.readthedocs.io/en/latest/)
+  - [Markups Module Tutorial](https://www.youtube.com/watch?v=xrly9atx7xQ)
 
-To be able to use this pipeline, you need 
-<ul style="float:left;">
-<li> a static trial with reflective markers fitted on the skin of the participant </li>
-<li> an MRI of the participant</li> 
-<li> to have developed a set of bone markers on the surface of the bones of your chosen OpenSim model. These should as many as are needed to describe the geometry of each bone plus the centre of its rotation. </li>
-</ul>
+### Required Data
+To use this pipeline, you need:
+- A static trial with reflective skin markers placed on the participant
+- An MRI scan of the participant
+- A defined set of bone landmarks on your chosen OpenSim model that:
+  - Adequately capture the 3D geometry of each bone segment
+  - Include joint center locations
 
-We provide an example with a set of markers developed for **Rajagopal et al. (2016)** model, where we personalize pelvis, femora, patellae and tibiae segments.
+### Example Implementation
+We provide a complete example using the Rajagopal et al. (2016) full-body model [DOI: 10.1109/TBME.2016.2586891], where we personalize the pelvis, femora, patellae, and tibiae segments.
 
 <div align="center">
    <img src="flowchart.png">

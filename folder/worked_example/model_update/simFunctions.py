@@ -65,8 +65,13 @@ def scaleOptimalForceSubjectSpecific(osimModel_generic, osimModel_scaled, height
     mass_scaled = getMassOfModel(osimModel_scaled)
     
     """
-    The regression to calculate the total muscle volume is based on the Hansfield et al. 2014 paper.
+    The regression to calculate the total muscle volume is based on the Handsfield et al. 2014 paper.
+    The total muscle volume is calculated for both, generic and scaled models, and then used to scale the maximum isometric force of each muscle.
+    The scaling factor is then calculated as the ratio of the total muscle volumes divided by the ratio of the optimal fiber lengths of each muscle.
     """
+    height_generic = height_generic*100  # convert to cm
+    height_scaled = height_scaled*100    # convert to cm
+
     Vtotal_generic = 47 * mass_generic * height_generic + 1285
     Vtotal_scaled = 47 * mass_scaled * height_scaled + 1285
     
@@ -79,9 +84,8 @@ def scaleOptimalForceSubjectSpecific(osimModel_generic, osimModel_scaled, height
         lmo_generic = currentMuscle_generic.getOptimalFiberLength()
         lmo_scaled = currentMuscle_scaled.getOptimalFiberLength()
 
-        forceScaleFactor = (Vtotal_scaled/Vtotal_generic)/(lmo_scaled/lmo_generic)
-        #forceScaleFactor = (mass_scaled / mass_generic) ** (2 / 3) # Willi's suggestion
-        
+        forceScaleFactor = (Vtotal_scaled/Vtotal_generic)/(lmo_scaled/lmo_generic)  # forceScaleFactor = (mass_scaled / mass_generic) ** (2 / 3)
+
         currentMuscle_scaled.setMaxIsometricForce( forceScaleFactor * currentMuscle_generic.getMaxIsometricForce() )
 
     return osimModel_scaled
