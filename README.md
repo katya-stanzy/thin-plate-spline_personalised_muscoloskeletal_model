@@ -26,9 +26,6 @@ Users should have:
 To use this pipeline, you need:
 - A static trial with reflective skin markers placed on the participant
 - An MRI scan of the participant
-- A defined set of bone landmarks on your chosen OpenSim model that:
-  - Adequately capture the 3D geometry of each bone segment
-  - Include joint center locations
 
 ### Example Implementation
 We provide a complete example using the Rajagopal et al. (2016) full-body model [DOI: 10.1109/TBME.2016.2586891], where we personalize the pelvis, femora, patellae, and tibiae segments.
