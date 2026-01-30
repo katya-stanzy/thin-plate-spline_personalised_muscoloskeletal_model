@@ -100,7 +100,7 @@ We provide a complete example using the Rajagopal et al. (2016) full-body model 
 
 Open notebook **"mri/results/orientation_with_tps.ipynb"**.  Once 3DSlicer kernel is activated, please run 'pip install thin-plate-spline' to install this library in the kernel. Please note, that you can only close this window if you close the managing notebook.
 
-The notebook will guide your actions step-by-step interactively. You can find instructions for using Markups module in 3D Slicer and landmark collection here: https://slicer.readthedocs.io/en/latest/user_guide/modules/markups.html. 3D Slicer project that you will have create will have to be saved via File -> Save Data -> "Save Scene and Unsaved Data" window. Please do not create a zip folder for the project, as its files will have to be accessible for Jupyter IDE.
+The notebook will guide your actions step-by-step interactively. You can find instructions for using Markups module in 3D Slicer and landmark collection here: https://slicer.readthedocs.io/en/latest/user_guide/modules/markups.html. 3D Slicer project that you will have created needs to be saved via File -> Save Data -> "Save Scene and Unsaved Data" window. Please do not create a zip folder for the project, as its files will have to be accessible for Jupyter IDE.
 
 5. Once all bone landmarks were collected for the individual, use the notebook **"model_update/2.0_use_mri_data.ipynb"** to create bone surfaces, mucle points and wrapping surfaces locations for the individual.
 
